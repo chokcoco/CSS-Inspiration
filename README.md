@@ -6,7 +6,9 @@
 
 ## Layout
 
-[CSS实现瀑布流布局](https://codepen.io/Chokcoco/pen/wYgYXX)
+[CSS实现瀑布流布局（display: flex）](https://codepen.io/Chokcoco/pen/wYgYXX)
+
+[CSS实现瀑布流布局（column-count）](https://codepen.io/Chokcoco/pen/LgjazE?editors=1100)
 
 [多方案实现跨行或跨列布局](https://codepen.io/Chokcoco/pen/BqWXQB)
 
