@@ -18,6 +18,8 @@
 
 [圣杯布局](https://codepen.io/Chokcoco/pen/MPERMw)
 
+[圣杯布局（flex实现）](https://codepen.io/Chokcoco/pen/GYyNGw)
+
 [双飞翼布局](https://codepen.io/Chokcoco/pen/EdwzVW)
 
 ## 阴影(box-shadow、drop-shadow)
