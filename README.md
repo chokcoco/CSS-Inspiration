@@ -27,3 +27,9 @@
 [单侧投影](https://codepen.io/Chokcoco/pen/pergRb)
 
 [使用 box-shadow 实现半透明遮罩](https://codepen.io/Chokcoco/pen/KGQVLr)
+
+## 滤镜(fliter)
+
+### ```filter:blur```
+
+[使用 filter:blur 生成彩色阴影](https://codepen.io/Chokcoco/pen/eGYYpo)
