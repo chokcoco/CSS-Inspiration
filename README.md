@@ -39,4 +39,6 @@
 
 ## 边框(border)
 
-### [活用 border-radius, 实现波浪动画](https://codepen.io/Chokcoco/pen/awxYWZ)
+[活用 border-radius, 实现波浪动画](https://codepen.io/Chokcoco/pen/awxYWZ)
+
+[活用 border-radius, 实现波浪loading](https://codepen.io/Chokcoco/pen/EXJrdB)
