@@ -42,3 +42,7 @@
 [活用 border-radius, 实现波浪动画](https://codepen.io/Chokcoco/pen/awxYWZ)
 
 [活用 border-radius, 实现波浪loading](https://codepen.io/Chokcoco/pen/EXJrdB)
+
+## 混合模式（mix-blend-mode/background-blend-mode)
+
+[mix-blend-mode 实现 loading 效果](https://codepen.io/Chokcoco/pen/PmJJeR)
