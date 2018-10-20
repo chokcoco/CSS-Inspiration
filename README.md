@@ -43,6 +43,8 @@
 
 [活用 border-radius, 实现波浪loading](https://codepen.io/Chokcoco/pen/EXJrdB)
 
+[border-radius 变换实现 loading 效果](https://codepen.io/Chokcoco/pen/MPXeNy)
+
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
 [mix-blend-mode 实现 loading 效果](https://codepen.io/Chokcoco/pen/PmJJeR)
