@@ -41,7 +41,7 @@
 
 [活用 border-radius, 实现波浪动画](https://codepen.io/Chokcoco/pen/awxYWZ)
 
-[活用 border-radius, 实现波浪loading](https://codepen.io/Chokcoco/pen/EXJrdB)
+[活用 border-radius, 实现波浪百分比图](https://codepen.io/Chokcoco/pen/EXJrdB)
 
 [border-radius 变换实现 loading 效果](https://codepen.io/Chokcoco/pen/MPXeNy)
 
