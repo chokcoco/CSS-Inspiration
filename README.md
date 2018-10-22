@@ -51,3 +51,7 @@
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
 [mix-blend-mode 实现 loading 效果](https://codepen.io/Chokcoco/pen/PmJJeR)
+
+## 动画/过渡(transition/animation)
+
+[CSS实现曲线运动](https://codepen.io/Chokcoco/pen/yRqrOL)
