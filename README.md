@@ -40,6 +40,10 @@
 
 [使用 filter:blur 生成彩色阴影](https://codepen.io/Chokcoco/pen/eGYYpo)
 
+### ```blur && constrast```
+
+[使用 filter:blur | filter:constrast 生成特殊融合效果](https://codepen.io/Chokcoco/pen/pPdQGj)
+
 ## 边框(border)
 
 [活用 border-radius, 实现波浪动画](https://codepen.io/Chokcoco/pen/awxYWZ)
