@@ -48,7 +48,7 @@
 
 ### ```filter:drop-shadow```
 
-[借助 filter:drop-shadow ，单标签实现抖音 LOGO](https://codepen.io/Chokcoco/pen/pPdQGj)
+[借助 filter:drop-shadow ，单标签实现抖音 LOGO](https://codepen.io/Chokcoco/pen/qJQmyY)
 
 ## 边框(border)
 
