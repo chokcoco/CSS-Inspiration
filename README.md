@@ -46,6 +46,10 @@
 
 [使用 filter:blur | filter:constrast 生成特殊融合效果](https://codepen.io/Chokcoco/pen/pPdQGj)
 
+### ```filter:drop-shadow```
+
+[借助 filter:drop-shadow ，单标签实现抖音 LOGO](https://codepen.io/Chokcoco/pen/pPdQGj)
+
 ## 边框(border)
 
 [活用 border-radius, 实现波浪动画](https://codepen.io/Chokcoco/pen/awxYWZ)
