@@ -46,6 +46,8 @@
 
 [使用 filter:blur | filter:constrast 生成特殊融合效果](https://codepen.io/Chokcoco/pen/pPdQGj)
 
+[使用 filter:blur | filter:constrast 生成火焰效果](https://codepen.io/Chokcoco/pen/GvbMmE)
+
 ### ```filter:drop-shadow```
 
 [借助 filter:drop-shadow ，单标签实现抖音 LOGO](https://codepen.io/Chokcoco/pen/qJQmyY)
