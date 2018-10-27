@@ -35,6 +35,8 @@
 
 [box-shadow 模拟实现类似线性渐变背景动画](https://codepen.io/Chokcoco/pen/dggoZw)
 
+[box-shadow 模拟霓虹氙灯文字效果](https://codepen.io/Chokcoco/pen/WaLdwX?editors=1100)
+
 
 ## 滤镜(fliter)
 
