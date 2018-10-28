@@ -68,6 +68,8 @@
 
 [线性渐变模拟长阴影](https://codepen.io/Chokcoco/pen/qJvVGy)
 
+[线性渐变实现条纹字](https://codepen.io/Chokcoco/pen/YJgJjQ?editors=1100)
+
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
 [mix-blend-mode 实现 loading 效果](https://codepen.io/Chokcoco/pen/PmJJeR)
