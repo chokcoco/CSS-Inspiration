@@ -33,6 +33,8 @@
 
 [长阴影(线性渐变模拟)](https://codepen.io/Chokcoco/pen/qJvVGy)
 
+[线性渐变|阴影实现条纹立体阴影条纹字](https://codepen.io/Chokcoco/pen/XxQJEB?editors=1100)
+
 [使用 box-shadow 实现半透明遮罩](https://codepen.io/Chokcoco/pen/KGQVLr)
 
 [box-shadow 模拟实现类似线性渐变背景动画](https://codepen.io/Chokcoco/pen/dggoZw)
