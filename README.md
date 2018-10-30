@@ -41,6 +41,9 @@
 
 [box-shadow 模拟霓虹氙灯文字效果](https://codepen.io/Chokcoco/pen/WaLdwX?editors=1100)
 
+[单标签借助 inset shdow 实现IE LOGO](https://codepen.io/Chokcoco/pen/rqgGqR)
+
+[借助 filter:drop-shadow ，单标签实现抖音 LOGO](https://codepen.io/Chokcoco/pen/qJQmyY)
 
 ## 滤镜(fliter)
 
@@ -54,9 +57,6 @@
 
 [使用 filter:blur | filter:constrast 生成火焰效果](https://codepen.io/Chokcoco/pen/GvbMmE)
 
-### ```filter:drop-shadow```
-
-[借助 filter:drop-shadow ，单标签实现抖音 LOGO](https://codepen.io/Chokcoco/pen/qJQmyY)
 
 ## 边框(border)
 
