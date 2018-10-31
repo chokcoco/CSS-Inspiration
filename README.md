@@ -37,6 +37,8 @@
 
 [使用 box-shadow 实现半透明遮罩](https://codepen.io/Chokcoco/pen/KGQVLr)
 
+[box-shadow 实现背景动画](https://codepen.io/Chokcoco/pen/WaBYZL)
+
 [box-shadow 模拟实现类似线性渐变背景动画](https://codepen.io/Chokcoco/pen/dggoZw)
 
 [box-shadow 模拟霓虹氙灯文字效果](https://codepen.io/Chokcoco/pen/WaLdwX?editors=1100)
