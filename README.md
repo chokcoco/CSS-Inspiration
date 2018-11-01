@@ -31,6 +31,8 @@
 
 [立体投影](https://codepen.io/Chokcoco/pen/LgdRKE?editors=1100)
 
+[文字立体投影](https://codepen.io/Chokcoco/pen/JmgNNa)
+
 [长阴影(线性渐变模拟)](https://codepen.io/Chokcoco/pen/qJvVGy)
 
 [线性渐变|阴影实现条纹立体阴影条纹字](https://codepen.io/Chokcoco/pen/XxQJEB?editors=1100)
