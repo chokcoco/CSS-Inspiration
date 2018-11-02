@@ -82,4 +82,6 @@
 
 ## 动画/过渡(transition/animation)
 
+[transition-delay实现按钮border动画效果](https://codepen.io/Chokcoco/pen/GwKOem)
+
 [CSS实现曲线运动](https://codepen.io/Chokcoco/pen/yRqrOL)
