@@ -79,6 +79,7 @@
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
 [mix-blend-mode 实现 loading 效果](https://codepen.io/Chokcoco/pen/PmJJeR)
+[mix-blend-mode 实现颜色叠加旋转动画](https://codepen.io/Chokcoco/pen/VbMrKX?editors=1100)
 
 ## 动画/过渡(transition/animation)
 
