@@ -49,6 +49,8 @@
 
 [借助 filter:drop-shadow ，单标签实现抖音 LOGO](https://codepen.io/Chokcoco/pen/qJQmyY)
 
+[Box-shadow 实现圆环进度条动画](https://codepen.io/Chokcoco/pen/RqNLZJ?editors=1100)
+
 ## 滤镜(fliter)
 
 ### ```filter:blur```
