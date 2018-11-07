@@ -51,6 +51,10 @@
 
 [Box-shadow 实现圆环进度条动画](https://codepen.io/Chokcoco/pen/RqNLZJ?editors=1100)
 
+## 伪类/伪元素
+
+[使用`:not()`伪类实现弹窗背景元素模糊](https://codepen.io/Chokcoco/pen/RqWBGB)
+
 ## 滤镜(fliter)
 
 ### ```filter:blur```
