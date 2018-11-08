@@ -82,7 +82,9 @@
 
 [线性渐变实现条纹字](https://codepen.io/Chokcoco/pen/YJgJjQ?editors=1100)
 
-[重复径向渐变实现波浪边框(优惠券边框)](https://codepen.io/Chokcoco/pen/MzwxBm)
+[重复径向渐变实现波浪边框](https://codepen.io/Chokcoco/pen/MzwxBm)
+
+[渐变实现优惠券波浪造型](https://codepen.io/Chokcoco/pen/vQLQXp?editors=1100)
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
