@@ -55,6 +55,8 @@
 
 [使用`:not()`伪类实现弹窗背景元素模糊](https://codepen.io/Chokcoco/pen/RqWBGB)
 
+[使用`:focus-within`伪类实现纯 CSS Tab 切换](https://codepen.io/Chokcoco/pen/RJEpaP)
+
 ## 滤镜(fliter)
 
 ### ```filter:blur```
