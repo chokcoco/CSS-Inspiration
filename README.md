@@ -57,6 +57,8 @@
 
 [使用`:focus-within`伪类实现纯 CSS Tab 切换](https://codepen.io/Chokcoco/pen/RJEpaP)
 
+[使用`:placeholder-shown & :focus-within & :not()`伪类实现表单填写效果](https://codepen.io/Chokcoco/pen/xJWwyB) 
+
 ## 滤镜(fliter)
 
 ### ```filter:blur```
