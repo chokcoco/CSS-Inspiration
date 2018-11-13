@@ -51,6 +51,8 @@
 
 [Box-shadow 实现圆环进度条动画](https://codepen.io/Chokcoco/pen/RqNLZJ?editors=1100)
 
+[使用box-shadow/渐变实现内切圆角](https://codepen.io/Chokcoco/pen/ZmLLRM)
+
 ## 伪类/伪元素
 
 [使用`:not()`伪类实现弹窗背景元素模糊](https://codepen.io/Chokcoco/pen/RqWBGB)
@@ -89,6 +91,8 @@
 [重复径向渐变实现波浪边框](https://codepen.io/Chokcoco/pen/MzwxBm)
 
 [渐变实现优惠券波浪造型](https://codepen.io/Chokcoco/pen/vQLQXp?editors=1100)
+
+[使用box-shadow/渐变实现内切圆角](https://codepen.io/Chokcoco/pen/ZmLLRM)
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
