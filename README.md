@@ -108,6 +108,10 @@
 
 [CSS实现曲线运动](https://codepen.io/Chokcoco/pen/yRqrOL)
 
+## SVG
+
+[使用 SVG 实现文字弧形排列](https://codepen.io/Chokcoco/pen/NEpqMK)
+
 ## 综合
 
 [retina屏下的1px线的实现](https://codepen.io/Chokcoco/pen/XyNjqK?editors=1100)
