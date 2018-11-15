@@ -102,6 +102,11 @@
 
 [使用 mix-blend-mode 实现抖音 LOGO](https://codepen.io/Chokcoco/pen/oQxQyw)
 
+
+## 3D
+
+[使用 translateZ 实现滚动视差](https://codepen.io/Chokcoco/pen/EpOeRm)
+
 ## 动画/过渡(transition/animation)
 
 [借助transition-delay实现按钮border动画效果](https://codepen.io/Chokcoco/pen/GwKOem)
