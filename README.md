@@ -61,6 +61,8 @@
 
 [使用`:placeholder-shown & :focus-within & :not()`伪类实现表单填写效果](https://codepen.io/Chokcoco/pen/xJWwyB) 
 
+[伪元素+border实现气泡对话框](https://codepen.io/Chokcoco/pen/QJMpdG)
+
 ## 滤镜(fliter)
 
 ### ```filter:blur```
