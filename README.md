@@ -75,6 +75,8 @@
 
 [使用 filter:blur | filter:constrast 生成火焰效果](https://codepen.io/Chokcoco/pen/GvbMmE)
 
+[使用 fliter:blur | filter:brightness | mix-blend-mode | background-blend-mode 生成特殊图片融合动画](https://codepen.io/Chokcoco/pen/pLKmZQ)
+
 
 ## 边框(border)
 
