@@ -102,6 +102,8 @@
 
 [使用 mix-blend-mode 实现抖音 LOGO](https://codepen.io/Chokcoco/pen/oQxQyw)
 
+[使用background-blend-mode | mix-blend-mode 实现类抖音LOGO晕眩效果](https://codepen.io/Chokcoco/pen/dJvEge)
+
 
 ## 3D
 
