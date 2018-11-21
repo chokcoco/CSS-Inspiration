@@ -104,6 +104,8 @@
 
 [使用background-blend-mode | mix-blend-mode 实现类抖音LOGO晕眩效果](https://codepen.io/Chokcoco/pen/dJvEge)
 
+[使用 mix-blend-mode 实现图片任意颜色赋值技术](https://codepen.io/Chokcoco/pen/rpLryX)
+
 
 ## 3D
 
