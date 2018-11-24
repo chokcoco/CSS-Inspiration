@@ -94,6 +94,8 @@
 
 [使用box-shadow/渐变实现内切圆角](https://codepen.io/Chokcoco/pen/ZmLLRM)
 
+[线性渐变实现内切直角](https://codepen.io/Chokcoco/pen/dQeWQK)
+
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
 [mix-blend-mode 实现 loading 效果](https://codepen.io/Chokcoco/pen/PmJJeR)
