@@ -82,7 +82,7 @@
 
 [border-radius 变换实现 loading 效果](https://codepen.io/Chokcoco/pen/MPXeNy)
 
-## 渐变(linear-gradient/radial-gradient/conic-gradient)
+## 背景/渐变(linear-gradient/radial-gradient/conic-gradient)
 
 [线性渐变模拟长阴影](https://codepen.io/Chokcoco/pen/qJvVGy)
 
@@ -97,6 +97,8 @@
 [线性渐变实现内切直角](https://codepen.io/Chokcoco/pen/dQeWQK)
 
 [利用 线性渐变 实现下划线](https://codepen.io/Chokcoco/pen/pQKzBg)
+
+[使用background-attachment: fixed | filter: bulr() 实现毛玻璃效果](https://codepen.io/Chokcoco/pen/OawrWM)
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
