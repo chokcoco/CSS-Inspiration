@@ -6,7 +6,7 @@
 
 HTML：
 
-```HTML
+```pug
 // pug 模板引擎
 div.g-container
     -for(var i = 0; i<4; i++)
@@ -16,7 +16,7 @@ div.g-container
 ```
 
 SCSS：
-```SCSS
+```scss
 $lineCount: 4;
 $count: 8;
 
