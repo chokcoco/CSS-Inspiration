@@ -5,8 +5,8 @@
 ## Layout
 
 + [CSS实现瀑布流布局（display: flex）](./layout/flex-waterfalls-flow.md) 
-+ [CSS实现瀑布流布局（colum+count）](https://codepen.io/Chokcoco/pen/LgjazE?editors=1100)
-+ [CSS实现瀑布流布局（display: grid）](https://codepen.io/Chokcoco/pen/KGXqyo)
++ [CSS实现瀑布流布局（colum+count）](./layout/colum-waterfalls-flow.md)
++ [CSS实现瀑布流布局（display: grid）](./layout/grid-waterfalls-flow.md)
 + [多方案实现跨行或跨列布局](https://codepen.io/Chokcoco/pen/BqWXQB)
 + [多种方案实现单列等宽，其他多列自适应均匀布局](https://codepen.io/Chokcoco/pen/PymyKG)
 + [多种方案实现多列等高布局](https://codepen.io/Chokcoco/pen/bmKzdw?editors=1100)
