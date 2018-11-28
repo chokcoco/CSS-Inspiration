@@ -7,13 +7,12 @@
 + [CSS实现瀑布流布局（display: flex）](./layout/flex-waterfalls-flow.md) 
 + [CSS实现瀑布流布局（colum+count）](./layout/colum-waterfalls-flow.md)
 + [CSS实现瀑布流布局（display: grid）](./layout/grid-waterfalls-flow.md)
-+ [多方案实现跨行或跨列布局](https://codepen.io/Chokcoco/pen/BqWXQB)
-+ [多种方案实现单列等宽，其他多列自适应均匀布局](https://codepen.io/Chokcoco/pen/PymyKG)
-+ [多种方案实现多列等高布局](https://codepen.io/Chokcoco/pen/bmKzdw?editors=1100)
-+ [圣杯布局](https://codepen.io/Chokcoco/pen/MPERMw)
-+ [圣杯布局（flex实现）](https://codepen.io/Chokcoco/pen/GYyNGw)
-+ [双飞翼布局](https://codepen.io/Chokcoco/pen/EdwzVW)
-
++ [多方案实现跨行或跨列布局](./layout/multi-row-or-column.md)
++ [多种方案实现单列等宽，其他多列自适应均匀布局](./layout/single-column-isometric.md)
++ [多种方案实现多列等高布局](./layout/multi-column-contour.md)
++ [圣杯布局](./layout/holy-grail-layout.md)
++ [圣杯布局（flex实现）](./layout/flex-holy-grail-layout.md)
++ [双飞翼布局](./layout/double-wing-layout.md)
 
 ## 阴影(box-shadow、drop-shadow)
 

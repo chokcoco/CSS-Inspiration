@@ -10,83 +10,7 @@
     <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
     <link rel="stylesheet" href="//unpkg.com/vuep/dist/vuep.css">
     <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
-
-    <style>
-        .markdown-section {
-            margin: 0 auto;
-            max-width: 1360px;
-            padding: 30px 15px 40px;
-            position: relative;
-        }
-
-        .vuep {
-            flex-direction: column;
-        }
-
-        .vuep-editor, .vuep-preview, .vuep-error {
-            border-radius: 2px;
-            height: inherit;
-            margin-right: 10px;
-            overflow: auto;
-            flex: 0 0 100%;
-            overflow: hidden;
-        }
-        
-        .vuep-preview {
-            overflow: initial;
-        }
-        .content {
-            left: 360px;
-        }
-        .sidebar {
-            width: 360px;
-            padding: 5px;
-        }
-
-        .markdown-section {
-            padding: 5px 30px 40px;
-        }
-
-        .markdown-section pre>code {
-            padding: 3px 5px;
-        }
-
-        h1 a:hover,
-        h2 a:hover {
-            text-decoration: none!important;
-        }
-
-        .sidebar h1, .sidebar h2 {
-            font-size: 18px;
-            padding-left: 5px;
-        }
-
-        .sidebar ul li  {
-            margin: 2;
-        }
-
-        .sidebar ul li a{
-            
-            transition: all .2s;
-        }
-
-        .sidebar ul li a:hover{
-            text-decoration: none;
-            color: #42b983;
-        }
-
-        #gitalk-container {
-            width: unset!important;
-            max-width: 1300px;
-            padding: 0 30px;
-        }
-        .github-fork {
-            position: fixed;
-            top: 0;
-            right: 0;
-        }
-
-    </style>
+    <link rel="stylesheet" href="./assets/css/index.css">
 </head>
 
 <body>
@@ -107,17 +31,7 @@
     <script src="//unpkg.com/prismjs@1.15.0/components/prism-scss.min.js"></script>
     <script src="//unpkg.com/prismjs@1.15.0/components/prism-pug.min.js"></script>
     <script src="./assets/js/md5.js"></script>
-    <script>
-        const gitalk = new Gitalk({
-            clientID: '38238cb03b9966294d48',
-            clientSecret: '2550a359e8369c93d7dd1259f9db3984a117387f',
-            repo: 'CSS-Inspiration',
-            owner: 'chokcoco',
-            admin: ['chokcoco'],
-            distractionFreeMode: false,
-            id: md5(window.location.pathname)
-        });
-    </script>
+    <script src="./assets/js/index.js"></script>
 </body>
 
 </html>

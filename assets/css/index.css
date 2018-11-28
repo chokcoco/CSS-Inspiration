@@ -1,0 +1,78 @@
+.markdown-section {
+    margin: 0 auto;
+    max-width: 1360px;
+    padding: 30px 15px 40px;
+    position: relative;
+}
+
+.vuep {
+    flex-direction: column;
+}
+
+.vuep-editor,
+.vuep-preview,
+.vuep-error {
+    border-radius: 2px;
+    height: inherit;
+    margin-right: 10px;
+    overflow: auto;
+    flex: 0 0 100%;
+    overflow: hidden;
+}
+
+.vuep-preview {
+    overflow: initial;
+}
+
+.content {
+    left: 360px;
+}
+
+.sidebar {
+    width: 360px;
+    padding: 5px;
+}
+
+.markdown-section {
+    padding: 5px 30px 40px;
+}
+
+.markdown-section pre>code {
+    padding: 3px 5px;
+}
+
+h1 a:hover,
+h2 a:hover {
+    text-decoration: none !important;
+}
+
+.sidebar h1,
+.sidebar h2 {
+    font-size: 18px;
+    padding-left: 5px;
+}
+
+.sidebar ul li {
+    margin: 2;
+}
+
+.sidebar ul li a {
+    transition: all .2s;
+}
+
+.sidebar ul li a:hover {
+    text-decoration: none;
+    color: #42b983;
+}
+
+#gitalk-container {
+    width: unset !important;
+    max-width: 1300px;
+    padding: 0 30px;
+}
+
+.github-fork {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
