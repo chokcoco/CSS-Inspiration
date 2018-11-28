@@ -76,3 +76,16 @@ h2 a:hover {
     top: 0;
     right: 0;
 }
+
+.content ul li {
+    margin: 6px 0;
+}
+
+.markdown-section pre>code {
+    font-size: .9rem;
+    line-height: 1.5;
+}
+
+.token.selector {
+    font-size: 1.1em;
+}
