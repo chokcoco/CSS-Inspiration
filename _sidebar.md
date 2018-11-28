@@ -1,6 +1,6 @@
 # CSS-Inspiration
 
-+ [引言](./vuep.md)
++ [引言](./init.md)
 
 ## Layout
 
