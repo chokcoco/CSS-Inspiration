@@ -1,79 +1,84 @@
-## Box-shadow实现圆环进度条动画
+## placeholder-shown 配合 focus-within 实现 input 输入交互
 
-Box-shadow实现圆环进度条动画。这个真的算是奇技淫巧。
+使用 `:placeholder-shown` && `:focus-within` 实现 input 输入交互。
 
-### 关键点
++ `:focus-within`: 是一个CSS 伪类 ，表示一个元素获得焦点，或，该元素的后代元素获得焦点。换句话说，元素自身或者它的某个后代匹配:focus伪类
++ `:placeholder-shown`:  CSS 伪类 在 `<input>` 或 `<textarea>` 元素显示 placeholder text 时生效
 
-+ 圆环进度条的移动本质上是阴影顺序延时移动的结果。
+-----
 
 HTML：
 
 ```html
-<div class="container">
-    <div class="shadow">Hover Me</div>
+<div class="g-container">
+  <input type="text" placeholder="输入你想查询的内容" class="g_input_search" >
+  <button type="button" class="g_button_search">GO</button>
 </div>
-
 ```
 
 SCSS：
 ```scss
-$color: #e91e63;
-
-body {
-    background: #000;
-}
-
-.container {
+.g-container {
     position: relative;
-    overflow: hidden;
-    width: 124px;
-    height: 124px;
-    overflow: hidden;
     margin: 100px auto;
-    border-radius: 50%;
-}
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 60px;
+    overflow: hidden;
+    transition: 0.3s;
 
-.shadow {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 120px;
-    height: 120px;
-    line-height: 120px;
-    border-radius: 50%;
-    color: #fff;
-    font-size: 20px;
-    cursor: pointer;
-    box-shadow: 60px -60px 0 2px $color, -60px -60px 0 2px $color,
-        -60px 60px 0 2px $color, 60px 60px 0 2px $color;
-    text-align: center;
-    
-    &:hover {
-        animation: border .5s ease forwards;
+    & > * {
+        border: none;
+        outline: none;
     }
-}
 
-@keyframes border{
-  0% {
-    box-shadow: 60px -60px 0 2px $color, -60px -60px 0 2px $color, -60px 60px 0 2px $color, 60px 60px 0 2px $color, 0 0 0 2px transparent;
-  }
-  25% {
-    box-shadow: 0 -125px 0 2px $color, -60px -60px 0 2px $color, -60px 60px 0 2px $color, 60px 60px 0 2px $color, 0 0 0 2px #fff;
-  }
-  50% {
-    box-shadow: 0 -125px 0 2px $color, -125px 0px 0 2px $color, -60px 60px 0 2px $color, 60px 60px 0 2px $color, 0 0 0 2px #fff;
-  }
-  75% {
-    box-shadow: 0 -125px 0 2px $color, -125px 0px 0 2px $color, 0px 125px 0 2px $color, 60px 60px 0 2px $color, 0 0 0 2px #fff;
-  }
-  100% {
-    box-shadow: 0 -125px 0 2px $color, -125px 0px 0 2px $color, 0px 125px 0 2px $color, 120px 40px 0 2px $color, 0 0 0 2px #fff;
-  } 
+    .g_input_search {
+        padding: 0 15px;
+        height: 100%;
+        width: 100%;
+        border: 1px solid #ddd;
+        font-size: 18px;
+        box-sizing: border-box;
+
+        &:not(:placeholder-shown) {
+            border: 1px solid #03a9f4;
+            
+            + .g_button_search {
+                opacity: 1;
+            }
+        }
+
+        &:placeholder-shown {
+            
+            + .g_button_search {
+                opacity: 0;
+            }
+        }
+    }
+
+    .g_button_search {
+        background: #03a9f4;
+        color: #feffd4;
+        font-size: 15px;
+        cursor: pointer;
+        width: 100px;
+        height: calc(100% - 20px);
+        transition: 0.3s;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
+    
+    &:focus-within {
+        transform: translateY(-4px);
+        border-color: #bbb;
+        box-shadow: 4px 4px 10px 2px #ddd;
+    }
 }
 ```
 
 效果如下（点击 `HTML/SCSS` 可以对代码进行编辑）：
 
-<iframe height='265' scrolling='no' title='Box-shadow实现圆环进度条动画' src='//codepen.io/Chokcoco/embed/RqNLZJ/?height=265&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Chokcoco/pen/RqNLZJ/'>Box-shadow实现圆环进度条动画</a> by Chokcoco (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
+<iframe height='265' scrolling='no' title=':placeholder-shown && :focus-within' src='//codepen.io/Chokcoco/embed/xJWwyB/?height=265&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Chokcoco/pen/xJWwyB/'>:placeholder-shown && :focus-within</a> by Chokcoco (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>

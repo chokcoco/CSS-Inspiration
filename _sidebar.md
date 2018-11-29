@@ -34,8 +34,8 @@
 
 + [使用`:not()`伪类实现弹窗背景元素模糊](./pesudo/pesudo-not.md)
 + [使用`:focus-within`伪类实现纯 CSS Tab 切换](./pesudo/pesudo-focus-within.md)
-+ [使用`:placeholder-shown & :focus-within & :not()`伪类实现表单填写效果](https://codepen.io/Chokcoco/pen/xJWwyB) 
-+ [伪元素+border实现气泡对话框](https://codepen.io/Chokcoco/pen/QJMpdG)
++ [使用`placeholder-shown`实现表单交互](./pesudo/pesudo-focus-within-placeholder-shown.md) 
++ [伪元素+border实现气泡对话框](./pesudo/pesudo-bubble.md)
 
 ## 滤镜(fliter)
 
