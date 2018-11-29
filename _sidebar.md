@@ -32,8 +32,8 @@
 
 ## 伪类/伪元素
 
-+ [使用`:not()`伪类实现弹窗背景元素模糊](https://codepen.io/Chokcoco/pen/RqWBGB)
-+ [使用`:focus-within`伪类实现纯 CSS Tab 切换](https://codepen.io/Chokcoco/pen/RJEpaP)
++ [使用`:not()`伪类实现弹窗背景元素模糊](./pesudo/pesudo-not.md)
++ [使用`:focus-within`伪类实现纯 CSS Tab 切换](./pesudo/pesudo-focus-within.md)
 + [使用`:placeholder-shown & :focus-within & :not()`伪类实现表单填写效果](https://codepen.io/Chokcoco/pen/xJWwyB) 
 + [伪元素+border实现气泡对话框](https://codepen.io/Chokcoco/pen/QJMpdG)
 
