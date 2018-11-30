@@ -39,10 +39,10 @@
 
 ## 滤镜(fliter)
 
-+ [使用 filter:blur 生成彩色阴影](https://codepen.io/Chokcoco/pen/eGYYpo) 
-+ [使用 filter:blur | filter:constrast 生成特殊融合效果](https://codepen.io/Chokcoco/pen/pPdQGj) 
-+ [使用 filter:blur | filter:constrast 生成火焰效果](https://codepen.io/Chokcoco/pen/GvbMmE) 
-+ [使用 fliter:blur | filter:brightness | mix-blend-mode | background-blend-mode 生成特殊图片融合动画](https://codepen.io/Chokcoco/pen/pLKmZQ)
++ [使用 filter:blur 生成彩色阴影](./filter/filter-shadow.md) 
++ [使用 filter:blur | filter:constrast 生成特殊融合效果](./filter/filter-blur-constrast.md) 
++ [使用 filter:blur | filter:constrast 生成火焰效果](./filter/filter-fire.md) 
++ [滤镜及混合模式混搭特效](./filter/filter-mix.md)
 
 
 ## 边框(border)
