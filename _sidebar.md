@@ -47,9 +47,9 @@
 
 ## 边框(border)
 
-+ [活用 border-radius, 实现波浪动画](https://codepen.io/Chokcoco/pen/awxYWZ) 
-+ [活用 border-radius, 实现波浪百分比图](https://codepen.io/Chokcoco/pen/EXJrdB) 
-+ [border-radius 变换实现 loading 效果](https://codepen.io/Chokcoco/pen/MPXeNy)
++ [活用 border-radius, 实现波浪动画](./border/border-wave.md)
++ [活用 border-radius, 实现波浪百分比图](./border/border-wave-percent.md)
++ [border-radius 变换实现 loading 效果](./border/border-loading.md)
 
 ## 背景/渐变(linear-gradient/radial-gradient/conic-gradient)
 
