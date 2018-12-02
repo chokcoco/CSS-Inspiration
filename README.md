@@ -86,6 +86,8 @@
 
 [border-radius 变换实现 loading 效果](https://codepen.io/Chokcoco/pen/MPXeNy)
 
+[border-color 变换实现文字输入效果](https://codepen.io/Chokcoco/pen/WXGoGB)
+
 ## 背景/渐变(linear-gradient/radial-gradient/conic-gradient)
 
 [线性渐变模拟长阴影](https://codepen.io/Chokcoco/pen/qJvVGy)
