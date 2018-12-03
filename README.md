@@ -75,7 +75,7 @@
 
 [使用 filter:blur | filter:constrast 生成火焰效果](https://codepen.io/Chokcoco/pen/GvbMmE)
 
-[使用 fliter:blur | filter:brightness | mix-blend-mode | background-blend-mode 生成特殊图片融合动画](https://codepen.io/Chokcoco/pen/pLKmZQ)
+[滤镜及混合模式混搭特效](https://codepen.io/Chokcoco/pen/pLKmZQ)
 
 
 ## 边框(border)
@@ -85,6 +85,8 @@
 [活用 border-radius, 实现波浪百分比图](https://codepen.io/Chokcoco/pen/EXJrdB)
 
 [border-radius 变换实现 loading 效果](https://codepen.io/Chokcoco/pen/MPXeNy)
+
+[border-color 变换实现文字输入效果](https://codepen.io/Chokcoco/pen/WXGoGB)
 
 ## 背景/渐变(linear-gradient/radial-gradient/conic-gradient)
 
