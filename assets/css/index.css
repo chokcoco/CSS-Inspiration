@@ -1,3 +1,13 @@
+
+body {
+    font-family: lucida grande, lucida sans unicode, lucida, helvetica, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
+}
+
+.markdown-section ol, .markdown-section p, .markdown-section ul {
+    line-height: 1.6rem;
+    font-size: 14px;
+}
+
 .markdown-section {
     margin: 0 auto;
     max-width: 1360px;
@@ -58,6 +68,8 @@ h2 a:hover {
 
 .sidebar ul li a {
     transition: all .2s;
+    font-size: 12px;
+    line-height: 2;
 }
 
 .sidebar ul li a:hover {
@@ -82,8 +94,8 @@ h2 a:hover {
 }
 
 .markdown-section pre>code {
-    font-size: .9rem;
-    line-height: 1.5;
+    font-size: .8rem;
+    line-height: 1.4;
 }
 
 .token.selector {

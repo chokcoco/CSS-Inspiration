@@ -63,11 +63,11 @@
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
-+ [mix-blend-mode 实现 loading 效果](https://codepen.io/Chokcoco/pen/PmJJeR)
-+ [mix-blend-mode 实现颜色叠加旋转动画](https://codepen.io/Chokcoco/pen/VbMrKX?editors=1100)
-+ [使用 mix-blend-mode 实现抖音 LOGO](https://codepen.io/Chokcoco/pen/oQxQyw)
-+ [使用background-blend-mode | mix-blend-mode 实现类抖音LOGO晕眩效果](https://codepen.io/Chokcoco/pen/dJvEge)
-+ [使用 mix-blend-mode 实现图片任意颜色赋值技术](https://codepen.io/Chokcoco/pen/rpLryX)
++ [mix-blend-mode 实现 loading 效果](./blendmode/blend-loading.md)
++ [mix-blend-mode 实现颜色叠加旋转动画](./blendmode/blend-rotate.md)
++ [使用 mix-blend-mode 实现抖音 LOGO](./blendmode/blend-douyin-logo.md)
++ [类抖音 LOGO 晕眩效果](./blendmode/blend-mix.md)
++ [使用 mix-blend-mode 实现图片任意颜色赋值技术](./blendmode/blend-color-set.md)
 
 
 ## 3D
