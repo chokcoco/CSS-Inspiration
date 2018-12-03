@@ -78,13 +78,13 @@
 
 ## 动画/过渡(transition/animation)
 
-+ [借助transition-delay实现按钮border动画效果](https://codepen.io/Chokcoco/pen/GwKOem)
-+ [CSS实现曲线运动](https://codepen.io/Chokcoco/pen/yRqrOL)
++ [借助transition-delay实现按钮border动画效果](./animation/animation-button-border.md)
++ [CSS实现曲线运动](./animation/animation-curve.md)
 
 ## SVG
 
-+ [使用 SVG 实现文字弧形排列](https://codepen.io/Chokcoco/pen/NEpqMK)
++ [使用 SVG 实现文字弧形排列](./svg/svg-arc-word.md)
 
 ## 综合
 
-+ [retina屏下的1px线的实现](https://codepen.io/Chokcoco/pen/XyNjqK?editors=1100)
++ [retina屏下的1px线的实现](./others/1px-line.md)

@@ -10,133 +10,87 @@
 
 ## Layout
 
-[CSS实现瀑布流布局（display: flex）](https://codepen.io/Chokcoco/pen/wYgYXX)
-
-[CSS实现瀑布流布局（column-count）](https://codepen.io/Chokcoco/pen/LgjazE?editors=1100)
-
-[CSS实现瀑布流布局（display: grid）](https://codepen.io/Chokcoco/pen/KGXqyo)
-
-[多方案实现跨行或跨列布局](https://codepen.io/Chokcoco/pen/BqWXQB)
-
-[多种方案实现单列等宽，其他多列自适应均匀布局](https://codepen.io/Chokcoco/pen/PymyKG)
-
-[多种方案实现多列等高布局](https://codepen.io/Chokcoco/pen/bmKzdw?editors=1100)
-
-[圣杯布局](https://codepen.io/Chokcoco/pen/MPERMw)
-
-[圣杯布局（flex实现）](https://codepen.io/Chokcoco/pen/GYyNGw)
-
-[双飞翼布局](https://codepen.io/Chokcoco/pen/EdwzVW)
-
++ [CSS实现瀑布流布局（display: flex）](https://chokcoco.github.io/CSS-Inspiration/#/./layout/flex-waterfalls-flow.md) 
++ [CSS实现瀑布流布局（colum+count）](https://chokcoco.github.io/CSS-Inspiration/#/./layout/colum-waterfalls-flow.md)
++ [CSS实现瀑布流布局（display: grid）](https://chokcoco.github.io/CSS-Inspiration/#/./layout/grid-waterfalls-flow.md)
++ [多方案实现跨行或跨列布局](https://chokcoco.github.io/CSS-Inspiration/#/./layout/multi-row-or-column.md)
++ [多种方案实现单列等宽，其他多列自适应均匀布局](https://chokcoco.github.io/CSS-Inspiration/#/./layout/single-column-isometric.md)
++ [多种方案实现多列等高布局](https://chokcoco.github.io/CSS-Inspiration/#/./layout/multi-column-contour.md)
++ [圣杯布局](https://chokcoco.github.io/CSS-Inspiration/#/./layout/holy-grail-layout.md)
++ [圣杯布局（flex实现）](https://chokcoco.github.io/CSS-Inspiration/#/./layout/flex-holy-grail-layout.md)
++ [双飞翼布局](https://chokcoco.github.io/CSS-Inspiration/#/./layout/double-wing-layout.md)
 
 ## 阴影(box-shadow、drop-shadow)
 
-[单侧投影](https://codepen.io/Chokcoco/pen/pergRb)
-
-[立体投影](https://codepen.io/Chokcoco/pen/LgdRKE?editors=1100)
-
-[文字立体投影](https://codepen.io/Chokcoco/pen/JmgNNa)
-
-[长阴影(线性渐变模拟)](https://codepen.io/Chokcoco/pen/qJvVGy)
-
-[线性渐变|阴影实现条纹立体阴影条纹字](https://codepen.io/Chokcoco/pen/XxQJEB?editors=1100)
-
-[使用 box-shadow 实现半透明遮罩](https://codepen.io/Chokcoco/pen/KGQVLr)
-
-[box-shadow 实现背景动画](https://codepen.io/Chokcoco/pen/WaBYZL)
-
-[box-shadow 模拟实现类似线性渐变背景动画](https://codepen.io/Chokcoco/pen/dggoZw)
-
-[box-shadow 模拟霓虹氙灯文字效果](https://codepen.io/Chokcoco/pen/WaLdwX?editors=1100)
-
-[单标签借助 inset shdow 实现IE LOGO](https://codepen.io/Chokcoco/pen/rqgGqR)
-
-[借助 filter:drop-shadow ，单标签实现抖音 LOGO](https://codepen.io/Chokcoco/pen/qJQmyY)
-
-[Box-shadow 实现圆环进度条动画](https://codepen.io/Chokcoco/pen/RqNLZJ?editors=1100)
-
-[使用box-shadow/渐变实现内切圆角](https://codepen.io/Chokcoco/pen/ZmLLRM)
++ [单侧投影](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/one-sided-shadow.md) 
++ [立体投影](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/solid-shadow.md) 
++ [文字立体投影](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/word-solid-shadow.md)  
++ [长阴影(线性渐变模拟)](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/long-shadow.md) 
++ [线性渐变|阴影实现条纹立体阴影条纹字](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/word-solid-shadow-ii.md)  
++ [使用 box-shadow 实现半透明遮罩](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/opacity-wrap.md) 
++ [box-shadow 实现背景动画](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/shadow-ani.md) 
++ [box-shadow 模拟实现类似线性渐变背景动画](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/shadow-ani-ii.md) 
++ [box-shadow 模拟霓虹氙灯文字效果](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/neon-shadow-light.md) 
++ [单标签借助 inset shdow 实现IE LOGO](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/ie-logo.md) 
++ [借助 filter:drop-shadow ，单标签实现抖音 LOGO](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/douyin-logo.md) 
++ [Box-shadow 实现圆环进度条动画](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/circle-loading.md) 
++ [使用box-shadow/渐变实现内切圆角](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/inscribed-angle.md) 
 
 ## 伪类/伪元素
 
-[使用`:not()`伪类实现弹窗背景元素模糊](https://codepen.io/Chokcoco/pen/RqWBGB)
-
-[使用`:focus-within`伪类实现纯 CSS Tab 切换](https://codepen.io/Chokcoco/pen/RJEpaP)
-
-[使用`:placeholder-shown & :focus-within & :not()`伪类实现表单填写效果](https://codepen.io/Chokcoco/pen/xJWwyB) 
-
-[伪元素+border实现气泡对话框](https://codepen.io/Chokcoco/pen/QJMpdG)
++ [使用`:not()`伪类实现弹窗背景元素模糊](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-not.md)
++ [使用`:focus-within`伪类实现纯 CSS Tab 切换](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-focus-within.md)
++ [使用`placeholder-shown`实现表单交互](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-focus-within-placeholder-shown.md) 
++ [伪元素+border实现气泡对话框](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-bubble.md)
 
 ## 滤镜(fliter)
 
-[使用 filter:blur 生成彩色阴影](https://codepen.io/Chokcoco/pen/eGYYpo)
-
-[使用 filter:blur | filter:constrast 生成特殊融合效果](https://codepen.io/Chokcoco/pen/pPdQGj)
-
-[使用 filter:blur | filter:constrast 生成火焰效果](https://codepen.io/Chokcoco/pen/GvbMmE)
-
-[滤镜及混合模式混搭特效](https://codepen.io/Chokcoco/pen/pLKmZQ)
++ [使用 filter:blur 生成彩色阴影](https://chokcoco.github.io/CSS-Inspiration/#/./filter/filter-shadow.md) 
++ [使用 filter:blur | filter:constrast 生成特殊融合效果](https://chokcoco.github.io/CSS-Inspiration/#/./filter/filter-blur-constrast.md) 
++ [使用 filter:blur | filter:constrast 生成火焰效果](https://chokcoco.github.io/CSS-Inspiration/#/./filter/filter-fire.md) 
++ [滤镜及混合模式混搭特效](https://chokcoco.github.io/CSS-Inspiration/#/./filter/filter-mix.md)
 
 
 ## 边框(border)
 
-[活用 border-radius, 实现波浪动画](https://codepen.io/Chokcoco/pen/awxYWZ)
-
-[活用 border-radius, 实现波浪百分比图](https://codepen.io/Chokcoco/pen/EXJrdB)
-
-[border-radius 变换实现 loading 效果](https://codepen.io/Chokcoco/pen/MPXeNy)
-
-[border-color 变换实现文字输入效果](https://codepen.io/Chokcoco/pen/WXGoGB)
++ [活用 border-radius, 实现波浪动画](https://chokcoco.github.io/CSS-Inspiration/#/./border/border-wave.md)
++ [活用 border-radius, 实现波浪百分比图](https://chokcoco.github.io/CSS-Inspiration/#/./border/border-wave-percent.md)
++ [border-radius 变换实现 loading 效果](https://chokcoco.github.io/CSS-Inspiration/#/./border/border-loading.md)
++ [border-color 变换实现文字输入效果](https://chokcoco.github.io/CSS-Inspiration/#/./border/border-typing.md)
 
 ## 背景/渐变(linear-gradient/radial-gradient/conic-gradient)
 
-[线性渐变模拟长阴影](https://codepen.io/Chokcoco/pen/qJvVGy)
-
-[线性渐变实现条纹字](https://codepen.io/Chokcoco/pen/YJgJjQ?editors=1100)
-
-[重复径向渐变实现波浪边框](https://codepen.io/Chokcoco/pen/MzwxBm)
-
-[渐变实现优惠券波浪造型](https://codepen.io/Chokcoco/pen/vQLQXp?editors=1100)
-
-[使用box-shadow/渐变实现内切圆角](https://codepen.io/Chokcoco/pen/ZmLLRM)
-
-[线性渐变实现内切直角](https://codepen.io/Chokcoco/pen/dQeWQK)
-
-[利用 线性渐变 实现下划线](https://codepen.io/Chokcoco/pen/pQKzBg)
-
-[使用background-attachment: fixed | filter: bulr() 实现毛玻璃效果](https://codepen.io/Chokcoco/pen/OawrWM)
++ [线性渐变实现条纹字](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-stripe.md) 
++ [重复径向渐变实现波浪边框](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-wave-border.md) 
++ [渐变实现优惠券波浪造型](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-coupon.md) 
++ [线性渐变实现内切直角](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-inscribed.md) 
++ [利用线性渐变实现下划线](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-underline.md) 
++ [使用 background-attachment 实现毛玻璃效果](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-frosted-glass.md) 
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
-[mix-blend-mode 实现 loading 效果](https://codepen.io/Chokcoco/pen/PmJJeR)
-
-[mix-blend-mode 实现颜色叠加旋转动画](https://codepen.io/Chokcoco/pen/VbMrKX?editors=1100)
-
-[使用 mix-blend-mode 实现抖音 LOGO](https://codepen.io/Chokcoco/pen/oQxQyw)
-
-[使用 background-blend-mode | mix-blend-mode 实现类抖音LOGO晕眩效果](https://codepen.io/Chokcoco/pen/VVMQgj)
-
-[使用 mix-blend-mode 实现图片任意颜色赋值技术](https://codepen.io/Chokcoco/pen/rpLryX)
++ [mix-blend-mode 实现 loading 效果](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-loading.md)
++ [mix-blend-mode 实现颜色叠加旋转动画](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-rotate.md)
++ [使用 mix-blend-mode 实现抖音 LOGO](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-douyin-logo.md)
++ [类抖音 LOGO 晕眩效果](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-mix.md)
++ [使用 mix-blend-mode 实现图片任意颜色赋值技术](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-color-set.md)
 
 
 ## 3D
 
-[使用 translateZ 实现滚动视差](https://codepen.io/Chokcoco/pen/EpOeRm)
-
-[借助 translate3d\perspective 实现 3D 视差效果](https://codepen.io/Chokcoco/pen/wQrNrd)
-
-[借助 translate3d\perspective 实现 3D 视差效果2](https://codepen.io/Chokcoco/pen/PBXwdX)
++ [使用 translateZ 实现滚动视差](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-translate-parallax.md) 
++ [借助 translate3d\perspective 实现 3D 视差效果](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-parallax.md) 
++ [借助 translate3d\perspective 实现 3D 视差效果2](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-parallax2.md) 
 
 ## 动画/过渡(transition/animation)
 
-[借助transition-delay实现按钮border动画效果](https://codepen.io/Chokcoco/pen/GwKOem)
-
-[CSS实现曲线运动](https://codepen.io/Chokcoco/pen/yRqrOL)
++ [借助transition-delay实现按钮border动画效果](https://chokcoco.github.io/CSS-Inspiration/#/./animation/animation-button-border.md)
++ [CSS实现曲线运动](https://chokcoco.github.io/CSS-Inspiration/#/./animation/animation-curve.md)
 
 ## SVG
 
-[使用 SVG 实现文字弧形排列](https://codepen.io/Chokcoco/pen/NEpqMK)
++ [使用 SVG 实现文字弧形排列](https://chokcoco.github.io/CSS-Inspiration/#/./svg/svg-arc-word.md)
 
 ## 综合
 
-[retina屏下的1px线的实现](https://codepen.io/Chokcoco/pen/XyNjqK?editors=1100)
++ [retina屏下的1px线的实现](https://chokcoco.github.io/CSS-Inspiration/#/./others/1px-line.md)
