@@ -50,17 +50,16 @@
 + [活用 border-radius, 实现波浪动画](./border/border-wave.md)
 + [活用 border-radius, 实现波浪百分比图](./border/border-wave-percent.md)
 + [border-radius 变换实现 loading 效果](./border/border-loading.md)
++ [border-color 变换实现文字输入效果](./border/border-typing.md)
 
 ## 背景/渐变(linear-gradient/radial-gradient/conic-gradient)
 
-+ [线性渐变模拟长阴影](https://codepen.io/Chokcoco/pen/qJvVGy) 
-+ [线性渐变实现条纹字](https://codepen.io/Chokcoco/pen/YJgJjQ?editors=1100) 
-+ [重复径向渐变实现波浪边框](https://codepen.io/Chokcoco/pen/MzwxBm) 
-+ [渐变实现优惠券波浪造型](https://codepen.io/Chokcoco/pen/vQLQXp?editors=1100) 
-+ [使用box-shadow/渐变实现内切圆角](https://codepen.io/Chokcoco/pen/ZmLLRM) 
-+ [线性渐变实现内切直角](https://codepen.io/Chokcoco/pen/dQeWQK) 
-+ [利用 线性渐变 实现下划线](https://codepen.io/Chokcoco/pen/pQKzBg) 
-+ [使用background-attachment: fixed | filter: bulr() 实现毛玻璃效果](https://codepen.io/Chokcoco/pen/OawrWM)
++ [线性渐变实现条纹字](./background/bg-stripe.md) 
++ [重复径向渐变实现波浪边框](./background/bg-wave-border.md) 
++ [渐变实现优惠券波浪造型](./background/bg-coupon.md) 
++ [线性渐变实现内切直角](./background/bg-inscribed.md) 
++ [利用线性渐变实现下划线](./background/bg-underline.md) 
++ [使用 background-attachment 实现毛玻璃效果](./background/bg-frosted-glass.md) 
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
