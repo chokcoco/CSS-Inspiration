@@ -9,7 +9,9 @@ body {
 }
 
 .markdown-section {
-    margin: 0 auto;
+    margin-top: 0;
+    margin-left: 50px;
+    margin-right: 70px;
     max-width: 1360px;
     padding: 30px 15px 40px;
     position: relative;
@@ -35,6 +37,7 @@ body {
 }
 
 .content {
+    padding-top: 20px;
     left: 360px;
 }
 
