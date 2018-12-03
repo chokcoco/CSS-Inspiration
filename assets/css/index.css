@@ -84,6 +84,7 @@ h2 a:hover {
     width: unset !important;
     max-width: 1430px;
     padding-right: 30px;
+    padding-left: 15px;
 }
 
 .github-fork {
