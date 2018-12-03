@@ -12,7 +12,7 @@ body {
     margin-top: 0;
     margin-left: 50px;
     margin-right: 70px;
-    max-width: 1360px;
+    max-width: 1430;
     padding: 30px 15px 40px;
     position: relative;
 }
@@ -97,7 +97,7 @@ h2 a:hover {
 }
 
 .markdown-section pre>code {
-    font-size: .8rem;
+    font-size: 12px;
     line-height: 1.4;
 }
 
