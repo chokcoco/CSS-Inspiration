@@ -72,9 +72,9 @@
 
 ## 3D
 
-+ [使用 translateZ 实现滚动视差](https://codepen.io/Chokcoco/pen/EpOeRm) 
-+ [借助 translate3d\perspective 实现 3D 视差效果](https://codepen.io/Chokcoco/pen/wQrNrd) 
-+ [借助 translate3d\perspective 实现 3D 视差效果2](https://codepen.io/Chokcoco/pen/PBXwdX)
++ [使用 translateZ 实现滚动视差](./3d/3d-translate-parallax.md) 
++ [借助 translate3d\perspective 实现 3D 视差效果](./3d/3d-parallax.md) 
++ [借助 translate3d\perspective 实现 3D 视差效果2](./3d/3d-parallax2.md) 
 
 ## 动画/过渡(transition/animation)
 
