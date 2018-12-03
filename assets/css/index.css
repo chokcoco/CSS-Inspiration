@@ -82,8 +82,8 @@ h2 a:hover {
 
 #gitalk-container {
     width: unset !important;
-    max-width: 1300px;
-    padding: 0 30px;
+    max-width: 1430px;
+    padding-right: 30px;
 }
 
 .github-fork {
