@@ -65,6 +65,7 @@
 + [渐变实现波浪效果/波浪进度框](https://chokcoco.github.io/CSS-Inspiration/#/./bg-wave.md) 
 + [渐变实现优惠券波浪造型](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-coupon.md) 
 + [线性渐变实现内切直角](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-inscribed.md) 
++ [线性渐变实现箭头符号](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-arrow.md) 
 + [利用线性渐变实现下划线](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-underline.md) 
 + [使用 background-attachment 实现毛玻璃效果](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-frosted-glass.md) 
 
