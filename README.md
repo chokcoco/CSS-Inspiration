@@ -68,6 +68,7 @@
 + [线性渐变实现箭头符号](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-arrow.md) 
 + [利用线性渐变实现下划线](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-underline.md) 
 + [使用 background-attachment 实现毛玻璃效果](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-frosted-glass.md) 
++ [使用渐变实现舞台灯光聚焦效果](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-focus.md) 
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
