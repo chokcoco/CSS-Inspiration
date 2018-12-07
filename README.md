@@ -42,6 +42,7 @@
 + [使用`:focus-within`伪类实现纯 CSS Tab 切换](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-focus-within.md)
 + [使用`placeholder-shown`实现表单交互](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-focus-within-placeholder-shown.md) 
 + [伪元素+border实现气泡对话框](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-bubble.md)
++ [伪元素`:checked` 实现纯 CSS 方式控制动画的暂停与播放](https://codepen.io/Chokcoco/pen/QpJwBW)
 
 ## 滤镜(fliter)
 
