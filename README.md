@@ -40,6 +40,7 @@
 
 + [使用`:not()`伪类实现弹窗背景元素模糊](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-not.md)
 + [使用`:focus-within`伪类实现纯 CSS Tab 切换](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-focus-within.md)
++ [伪元素`:focus-within` 纯 CSS 方式实现掘金登陆特效](https://codepen.io/Chokcoco/pen/yqKrPR)
 + [使用`placeholder-shown`实现表单交互](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-focus-within-placeholder-shown.md) 
 + [伪元素+border实现气泡对话框](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-bubble.md)
 + [伪元素`:checked` 实现纯 CSS 方式控制动画的暂停与播放](https://codepen.io/Chokcoco/pen/QpJwBW)
