@@ -11,6 +11,10 @@
 + 这个属性有点类似 Javascript 的事件冒泡，从可获焦元素开始一直冒泡到根元素 html，都可以接收触发 :focus-within 事件
 + 本例子的思路就是通过获焦态来控制其他选择器，以及最重要的是利用了父级的 :not(:focus-within) 来设置默认样式
 
+### 相关文章
+
+[神奇的选择器 :focus-within](https://github.com/chokcoco/iCSS/issues/36)
+
 HTML：
 
 ```html

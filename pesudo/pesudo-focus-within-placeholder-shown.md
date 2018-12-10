@@ -5,6 +5,10 @@
 + `:focus-within`: 是一个CSS 伪类 ，表示一个元素获得焦点，或，该元素的后代元素获得焦点。换句话说，元素自身或者它的某个后代匹配:focus伪类
 + `:placeholder-shown`:  CSS 伪类 在 `<input>` 或 `<textarea>` 元素显示 placeholder text 时生效
 
+### 相关文章
+
+[神奇的选择器 :focus-within](https://github.com/chokcoco/iCSS/issues/36)
+
 -----
 
 HTML：
