@@ -33,13 +33,15 @@
 ## 伪类/伪元素
 
 + [使用`:not()`伪类实现弹窗背景元素模糊](./pesudo/pesudo-not.md)
-+ [使用`:focus-within`伪类实现纯 CSS Tab 切换](./pesudo/pesudo-focus-within.md)
-+ [伪元素`:focus-within` 纯 CSS 方式实现掘金登陆特效](./pesudo/pesudo-juejin.md)
-+ [使用`placeholder-shown`实现表单交互](./pesudo/pesudo-focus-within-placeholder-shown.md) 
++ [伪类`:focus-within`纯 CSS 方式实现掘金登陆特效](./pesudo/pesudo-juejin.md)
++ [伪类`placeholder-shown`实现表单交互](./pesudo/pesudo-focus-within-placeholder-shown.md) 
 + [伪元素配合 border 实现气泡对话框](./pesudo/pesudo-bubble.md)
-+ [伪元素`:hover` 实现纯 CSS 方式控制动画的暂停与播放](./pesudo/pesudo-animation-control-hover.md)
-+ [伪元素`:checked` 实现纯 CSS 方式控制动画的暂停与播放](./pesudo/pesudo-animation-control.md)
-+ [伪元素`:target` 实现纯 CSS 方式控制动画的暂停与播放](./pesudo/pesudo-animation-control-target.md)
++ [伪类`:checked`实现纯 CSS Tab 切换](./pesudo/pesudo-focus-checked.md)
++ [伪类`:target`实现纯 CSS Tab 切换](./pesudo/pesudo-focus-target.md)
++ [伪类`:focus-within`实现纯 CSS Tab 切换](./pesudo/pesudo-focus-within.md)
++ [伪类`:hover` 实现纯 CSS 方式控制动画的暂停与播放](./pesudo/pesudo-animation-control-hover.md)
++ [伪类`:checked`实现纯 CSS 方式控制动画的暂停与播放](./pesudo/pesudo-animation-control.md)
++ [伪类`:target`实现纯 CSS 方式控制动画的暂停与播放](./pesudo/pesudo-animation-control-target.md)
 
 
 ## 滤镜(fliter)
