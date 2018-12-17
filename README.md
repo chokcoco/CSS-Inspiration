@@ -90,6 +90,7 @@
 + [使用 translateZ 实现滚动视差](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-translate-parallax.md) 
 + [借助 translate3d\perspective 实现 3D 视差效果](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-parallax.md) 
 + [借助 translate3d\perspective 实现 3D 视差效果2](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-parallax2.md) 
++ [3d 球动画](https://codepen.io/Chokcoco/pen/JwdvmJ) 
 
 ## 动画/过渡(transition/animation)
 
