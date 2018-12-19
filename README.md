@@ -83,6 +83,7 @@
 + [使用 mix-blend-mode 实现抖音 LOGO](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-douyin-logo.md)
 + [类抖音 LOGO 晕眩效果](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-mix.md)
 + [使用 mix-blend-mode 实现图片任意颜色赋值技术](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-color-set.md)
++ [CSS MIX](https://codepen.io/Chokcoco/pen/REoKpQ)
 
 
 ## 3D
