@@ -85,6 +85,7 @@
 + [使用 mix-blend-mode 实现图片任意颜色赋值技术](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-color-set.md)
 + [CSS MIX](https://codepen.io/Chokcoco/pen/REoKpQ)
 + [CSS MAGIC MIX](https://codepen.io/Chokcoco/pen/bOgamV)
++ [CSS MAGIC MIX2](https://codepen.io/Chokcoco/pen/royQvE?editors=1100)
 
 
 ## 3D
