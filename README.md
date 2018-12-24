@@ -87,7 +87,7 @@
 + [CSS MIX](https://codepen.io/Chokcoco/pen/REoKpQ)
 + [CSS MAGIC MIX](https://codepen.io/Chokcoco/pen/bOgamV)
 + [CSS MAGIC MIX2](https://codepen.io/Chokcoco/pen/royQvE?editors=1100)
-
++ [CSS WAVE MOVE(惊艳的水波效果)](https://codepen.io/Chokcoco/pen/royQvE?editors=1100)
 
 ## 3D
 
