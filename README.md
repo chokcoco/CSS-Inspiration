@@ -107,4 +107,4 @@
 ## 综合
 
 + [retina屏下的1px线的实现](https://chokcoco.github.io/CSS-Inspiration/#/./others/1px-line.md)
-+ [CSS CIRCLE MIX](https://codepen.io/Chokcoco/pen/XogwvV)
++ [MAGIC CSS MIX](https://codepen.io/Chokcoco/pen/XogwvV)
