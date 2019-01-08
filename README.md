@@ -74,6 +74,7 @@
 + [使用 background-attachment 实现毛玻璃效果](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-frosted-glass.md) 
 + [使用渐变实现舞台灯光聚焦效果](https://chokcoco.github.io/CSS-Inspiration/#/./background/bg-focus.md) 
 + [圆锥渐变配合混合模式实现炫酷光影效果](https://codepen.io/Chokcoco/pen/gRRdQq)
++ [mask-image 实现图片变幻](https://codepen.io/Chokcoco/pen/VqdQwB)
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
