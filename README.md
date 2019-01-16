@@ -102,7 +102,7 @@
 + [借助transition-delay实现按钮border动画效果](https://chokcoco.github.io/CSS-Inspiration/#/./animation/animation-button-border.md)
 + [简单曲线运动](https://chokcoco.github.io/CSS-Inspiration/#/./animation/animation-curve.md)
 + [借助transition-delay简单多重圆的位移](https://codepen.io/Chokcoco/pen/QzzwVO)
-+ [Css动画正负旋转相消](https://codepen.io/Chokcoco/pen/XaBJPy)
++ [动画正负旋转相消](https://codepen.io/Chokcoco/pen/XaBJPy)
 
 ## SVG
 
