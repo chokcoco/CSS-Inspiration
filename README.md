@@ -115,3 +115,4 @@
 + [PURE CSS 实现鼠标跟随](https://codepen.io/Chokcoco/pen/MZqMVO)
 + [鼠标跟随动画 PURE CSS MAGIC MIX](https://codepen.io/Chokcoco/pen/zyyYqN)
 + [CSS文字分裂特效](https://codepen.io/Chokcoco/pen/wRZKNY)
++ [CSS TEXT Animation](https://codepen.io/Chokcoco/pen/dwxPWO)
