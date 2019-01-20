@@ -53,6 +53,7 @@
 + [使用 filter:blur | filter:constrast 生成特殊融合效果](https://chokcoco.github.io/CSS-Inspiration/#/./filter/filter-blur-constrast.md) 
 + [使用 filter:blur | filter:constrast 生成火焰效果](https://chokcoco.github.io/CSS-Inspiration/#/./filter/filter-fire.md) 
 + [滤镜及混合模式混搭特效](https://chokcoco.github.io/CSS-Inspiration/#/./filter/filter-mix.md)
++ [使用 filter:blur | filter:constrast 单标签实现滴水效果](https://codepen.io/Chokcoco/pen/gZVjJw)
 
 
 ## 边框(border)
