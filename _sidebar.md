@@ -50,7 +50,7 @@
 + [使用 filter:blur | filter:constrast 生成特殊融合效果](./filter/filter-blur-constrast.md) 
 + [使用 filter:blur | filter:constrast 生成火焰效果](./filter/filter-fire.md) 
 + [滤镜及混合模式混搭特效](./filter/filter-mix.md)
-
++ [使用 filter:blur | filter:constrast 单标签实现滴水效果](https://codepen.io/Chokcoco/pen/gZVjJw)
 
 ## 边框(border)
 
@@ -70,6 +70,9 @@
 + [利用线性渐变实现下划线](./background/bg-underline.md) 
 + [使用 background-attachment 实现毛玻璃效果](./background/bg-frosted-glass.md) 
 + [使用渐变实现舞台灯光聚焦效果](./background/bg-focus.md) 
++ [圆锥渐变配合混合模式实现炫酷光影效果](https://codepen.io/Chokcoco/pen/gRRdQq)
++ [mask-image 实现图片变幻](https://codepen.io/Chokcoco/pen/VqdQwB)
++ [使用线性渐变实现滚动进度条](https://codepen.io/Chokcoco/pen/KbBXQM)
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
@@ -78,6 +81,10 @@
 + [使用 mix-blend-mode 实现抖音 LOGO](./blendmode/blend-douyin-logo.md)
 + [类抖音 LOGO 晕眩效果](./blendmode/blend-mix.md)
 + [使用 mix-blend-mode 实现图片任意颜色赋值技术](./blendmode/blend-color-set.md)
++ [CSS MIX](https://codepen.io/Chokcoco/pen/REoKpQ)
++ [CSS MAGIC MIX](https://codepen.io/Chokcoco/pen/bOgamV)
++ [CSS MAGIC MIX2](https://codepen.io/Chokcoco/pen/royQvE?editors=1100)
++ [CSS WAVE MOVE(惊艳的水波效果)](https://codepen.io/Chokcoco/pen/VqbxQr)
 
 
 ## 3D
@@ -85,11 +92,15 @@
 + [使用 translateZ 实现滚动视差](./3d/3d-translate-parallax.md) 
 + [借助 translate3d\perspective 实现 3D 视差效果](./3d/3d-parallax.md) 
 + [借助 translate3d\perspective 实现 3D 视差效果2](./3d/3d-parallax2.md) 
++ [3d 球动画](https://codepen.io/Chokcoco/pen/JwdvmJ) 
++ [3D Spiral Number](https://codepen.io/Chokcoco/pen/LeWbaB)
 
 ## 动画/过渡(transition/animation)
 
 + [借助transition-delay实现按钮border动画效果](./animation/animation-button-border.md)
 + [CSS实现曲线运动](./animation/animation-curve.md)
++ [借助transition-delay简单多重圆的位移](https://codepen.io/Chokcoco/pen/QzzwVO)
++ [动画正负旋转相消](https://codepen.io/Chokcoco/pen/XaBJPy)
 
 ## SVG
 
@@ -98,3 +109,8 @@
 ## 综合
 
 + [retina屏下的1px线的实现](./others/1px-line.md)
++ [MAGIC CSS MIX](https://codepen.io/Chokcoco/pen/XogwvV)
++ [PURE CSS 实现鼠标跟随](https://codepen.io/Chokcoco/pen/MZqMVO)
++ [鼠标跟随动画 PURE CSS MAGIC MIX](https://codepen.io/Chokcoco/pen/zyyYqN)
++ [CSS文字分裂特效](https://codepen.io/Chokcoco/pen/wRZKNY)
++ [CSS TEXT Animation](https://codepen.io/Chokcoco/pen/dwxPWO)

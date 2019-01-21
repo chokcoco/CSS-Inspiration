@@ -5,5 +5,7 @@ const gitalk = new Gitalk({
     owner: 'chokcoco',
     admin: ['chokcoco'],
     distractionFreeMode: false,
-    id: md5(window.location.pathname)
+    id: md5(window.location.hash)
 });
+
+gitalk.render('app');
