@@ -8,4 +8,6 @@ const gitalk = new Gitalk({
     id: md5(window.location.hash)
 });
 
+window.gittalk = gitalk;
+
 gitalk.render('app');
