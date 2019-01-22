@@ -105,10 +105,6 @@
 + [借助transition-delay简单多重圆的位移](https://codepen.io/Chokcoco/pen/QzzwVO)
 + [动画正负旋转相消](https://codepen.io/Chokcoco/pen/XaBJPy)
 
-## SVG
-
-+ [使用 SVG 实现文字弧形排列](https://chokcoco.github.io/CSS-Inspiration/#/./svg/svg-arc-word.md)
-
 ## 综合
 
 + [retina屏下的1px线的实现](https://chokcoco.github.io/CSS-Inspiration/#/./others/1px-line.md)
@@ -117,3 +113,7 @@
 + [鼠标跟随动画 PURE CSS MAGIC MIX](https://codepen.io/Chokcoco/pen/zyyYqN)
 + [CSS文字分裂特效](https://codepen.io/Chokcoco/pen/wRZKNY)
 + [CSS TEXT Animation](https://codepen.io/Chokcoco/pen/dwxPWO)
+
+## SVG
+
++ [使用 SVG 实现文字弧形排列](https://chokcoco.github.io/CSS-Inspiration/#/./svg/svg-arc-word.md)
