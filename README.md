@@ -111,6 +111,7 @@
 + [retina屏下的1px线的实现](https://chokcoco.github.io/CSS-Inspiration/#/./others/1px-line.md)
 + [MAGIC CSS MIX](https://codepen.io/Chokcoco/pen/XogwvV)
 + [PURE CSS 实现鼠标跟随](https://codepen.io/Chokcoco/pen/MZqMVO)
++ [hover | transition 实现鼠标跟随](https://codepen.io/Chokcoco/pen/XgvjQM)
 + [鼠标跟随动画 PURE CSS MAGIC MIX](https://codepen.io/Chokcoco/pen/zyyYqN)
 + [CSS文字分裂特效](https://codepen.io/Chokcoco/pen/wRZKNY)
 + [CSS TEXT Animation](https://codepen.io/Chokcoco/pen/dwxPWO)
