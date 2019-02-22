@@ -115,6 +115,7 @@
 + [鼠标跟随动画 PURE CSS MAGIC MIX](https://codepen.io/Chokcoco/pen/zyyYqN)
 + [CSS文字分裂特效](https://codepen.io/Chokcoco/pen/wRZKNY)
 + [CSS TEXT Animation](https://codepen.io/Chokcoco/pen/dwxPWO)
++ [纯CSS实现360°饼图 -- PURE CSS PIE ROTATE](https://codepen.io/Chokcoco/pen/BMgZvM?editors=1100)
 
 ## SVG
 
