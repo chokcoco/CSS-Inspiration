@@ -37,6 +37,7 @@
 ## 伪类/伪元素
 
 + [使用`:not()`伪类实现弹窗背景元素模糊](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-not.md)
++ [使用`:not()`伪类控制特殊边框样式](https://codepen.io/Chokcoco/pen/EMYGQZ)
 + [伪类`:focus-within`纯 CSS 方式实现掘金登陆特效](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-juejin.md)
 + [伪类`placeholder-shown`实现表单交互](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-focus-within-placeholder-shown.md) 
 + [伪元素配合 border 实现气泡对话框](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-bubble.md)
