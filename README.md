@@ -64,6 +64,7 @@
 + [活用 border-radius, 实现波浪百分比图](https://chokcoco.github.io/CSS-Inspiration/#/./border/border-wave-percent.md)
 + [border-radius 变换实现 loading 效果](https://chokcoco.github.io/CSS-Inspiration/#/./border/border-loading.md)
 + [border-color 变换实现文字输入效果](https://chokcoco.github.io/CSS-Inspiration/#/./border/border-typing.md)
++ [活用 border-radius, 单标签线条动画](https://codepen.io/Chokcoco/pen/xBxvdZ)
 
 ## 背景/渐变(linear-gradient/radial-gradient/conic-gradient)
 
