@@ -121,6 +121,9 @@
 + [纯CSS实现360°饼图 -- PURE CSS PIE ROTATE](https://codepen.io/Chokcoco/pen/BMgZvM?editors=1100)
 + [纯CSS鼠标跟随按钮动画效果](https://codepen.io/Chokcoco/pen/OqXqVz)
 
+## calc/css变量
++ [使用CSS让你的浏览器卡死](https://codepen.io/Chokcoco/pen/moMzxB)
+
 ## SVG
 
 + [使用 SVG 实现文字弧形排列](https://chokcoco.github.io/CSS-Inspiration/#/./svg/svg-arc-word.md)
