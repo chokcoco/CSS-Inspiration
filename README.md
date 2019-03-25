@@ -121,6 +121,7 @@
 + [CSS TEXT Animation](https://codepen.io/Chokcoco/pen/dwxPWO)
 + [纯CSS实现360°饼图 -- PURE CSS PIE ROTATE](https://codepen.io/Chokcoco/pen/BMgZvM?editors=1100)
 + [纯CSS鼠标跟随按钮动画效果](https://codepen.io/Chokcoco/pen/OqXqVz)
++ [纯CSS实现蜡烛火焰效果](https://codepen.io/Chokcoco/pen/jJJbmz)
 
 ## calc/css变量
 + [使用CSS让你的浏览器卡死](https://codepen.io/Chokcoco/pen/moMzxB)
