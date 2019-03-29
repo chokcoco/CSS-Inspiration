@@ -109,6 +109,7 @@
 + [简单曲线运动](https://chokcoco.github.io/CSS-Inspiration/#/./animation/animation-curve.md)
 + [借助transition-delay简单多重圆的位移](https://codepen.io/Chokcoco/pen/QzzwVO)
 + [动画正负旋转相消](https://codepen.io/Chokcoco/pen/XaBJPy)
++ [巧妙使用 css 控制动画行进](https://codepen.io/Chokcoco/pen/ZPgxwy)
 
 ## 综合
 
