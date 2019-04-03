@@ -103,6 +103,7 @@
 + [借助 translate3d\perspective 实现 3D 视差效果2](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-parallax2.md) 
 + [3d 球动画](https://codepen.io/Chokcoco/pen/JwdvmJ) 
 + [3D Spiral Number](https://codepen.io/Chokcoco/pen/LeWbaB)
++ [CSS 3D MAZE, 惊艳的 CSS 3D 线条特效](https://codepen.io/Chokcoco/pen/dLYpxK)
 
 ## 动画/过渡(transition/animation)
 
