@@ -82,6 +82,7 @@
 + [圆锥渐变配合混合模式实现炫酷光影效果](https://codepen.io/Chokcoco/pen/gRRdQq)
 + [mask-image 实现图片变幻](https://codepen.io/Chokcoco/pen/VqdQwB)
 + [使用线性渐变实现滚动进度条](https://codepen.io/Chokcoco/pen/KbBXQM)
++ [使用线性渐变实现类迷宫图形](https://codepen.io/Chokcoco/pen/zXYJaW)
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
