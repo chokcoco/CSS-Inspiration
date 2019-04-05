@@ -58,6 +58,7 @@
 + [滤镜及混合模式混搭特效](https://chokcoco.github.io/CSS-Inspiration/#/./filter/filter-mix.md)
 + [使用 filter:blur | filter:constrast 单标签实现滴水效果](https://codepen.io/Chokcoco/pen/gZVjJw)
 + [使用 filter:blur | filter:constrast 小球穿梭效果](https://codepen.io/Chokcoco/pen/ZwYyKO)
++ [使用 hue-rotate 实现渐变背景动画](https://codepen.io/Chokcoco/pen/MRegJW)
 
 
 ## 边框(border)
