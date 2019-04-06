@@ -48,6 +48,7 @@
 + [伪类`:checked`实现纯 CSS 方式控制动画的暂停与播放](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-animation-control.md)
 + [伪类`:target`实现纯 CSS 方式控制动画的暂停与播放](https://chokcoco.github.io/CSS-Inspiration/#/./pesudo/pesudo-animation-control-target.md)
 + [伪元素实现边界智能判断移动](https://codepen.io/Chokcoco/pen/rRLJrR)
++ [伪元素实现打点 loading 效果]（https://codepen.io/Chokcoco/pen/yrJpQG）
 
 ## 滤镜(fliter)
 
