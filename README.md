@@ -85,6 +85,7 @@
 + [mask-image 实现图片变幻](https://codepen.io/Chokcoco/pen/VqdQwB)
 + [使用线性渐变实现滚动进度条](https://codepen.io/Chokcoco/pen/KbBXQM)
 + [使用线性渐变实现类迷宫图形](https://codepen.io/Chokcoco/pen/zXYJaW)
++ [使用渐变实现波浪下划线](https://codepen.io/Chokcoco/pen/vMyBQe?editors=1100)
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
