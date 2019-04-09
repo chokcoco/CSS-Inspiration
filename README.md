@@ -116,6 +116,10 @@
 + [动画正负旋转相消](https://codepen.io/Chokcoco/pen/XaBJPy)
 + [巧妙使用 css 控制动画行进](https://codepen.io/Chokcoco/pen/ZPgxwy)
 
+## 文本类
+
++[使用text-decoration实现下划线效果](https://codepen.io/Chokcoco/pen/YMWavM)
+
 ## 综合
 
 + [retina屏下的1px线的实现](https://chokcoco.github.io/CSS-Inspiration/#/./others/1px-line.md)
