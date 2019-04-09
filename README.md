@@ -118,7 +118,7 @@
 
 ## 文本类
 
-+ [使用text-decoration实现下划线效果](https://codepen.io/Chokcoco/pen/YMWavM)
++ [使用text-decoration实现波浪效果](https://codepen.io/Chokcoco/pen/YMWavM)
 
 ## 综合
 
