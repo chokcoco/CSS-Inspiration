@@ -133,7 +133,7 @@
 + [纯CSS鼠标跟随按钮动画效果](https://codepen.io/Chokcoco/pen/OqXqVz)
 + [纯CSS实现蜡烛火焰效果](https://codepen.io/Chokcoco/pen/jJJbmz)
 + [使用CSS让你的浏览器崩溃](https://codepen.io/Chokcoco/pen/moMzxB)
-
++ [使用CSS实现一套西文字体](https://codepen.io/Chokcoco/pen/VNPego?editors=1100)
 
 ## SVG
 
