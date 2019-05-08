@@ -33,6 +33,7 @@
 + [借助 filter:drop-shadow ，单标签实现抖音 LOGO](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/douyin-logo.md) 
 + [Box-shadow 实现圆环进度条动画](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/circle-loading.md) 
 + [使用box-shadow/渐变实现内切圆角](https://chokcoco.github.io/CSS-Inspiration/#/./shadow/inscribed-angle.md) 
++ [使用box-shadow单标签实现叉子图形](https://codepen.io/Chokcoco/pens/public/)
 
 ## 伪类/伪元素
 
