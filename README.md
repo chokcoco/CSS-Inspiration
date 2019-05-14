@@ -6,7 +6,7 @@
 
 [Online Pages](https://chokcoco.github.io/CSS-Inspiration/#/)
 
-> 下面很多例子不一定同步更新到我的在线网站，建议以下面的导航为准。
+> 下面很多例子不一定同步更新到我的在线网站，建议以下面的导航为准，很多 Demo 会直接链接到我的 CodePen。
 
 ## Layout
 
