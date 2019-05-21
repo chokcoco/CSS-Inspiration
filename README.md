@@ -19,7 +19,8 @@
 + [圣杯布局](https://chokcoco.github.io/CSS-Inspiration/#/./layout/holy-grail-layout.md)
 + [圣杯布局（flex实现）](https://chokcoco.github.io/CSS-Inspiration/#/./layout/flex-holy-grail-layout.md)
 + [双飞翼布局](https://chokcoco.github.io/CSS-Inspiration/#/./layout/double-wing-layout.md)
-+ [FFC下实现垂直居中最便捷的方法](https://codepen.io/Chokcoco/pen/GarPev)
++ [实现垂直居中最便捷的方法](https://codepen.io/Chokcoco/pen/GarPev)
++ [使用 margin auto 实现 flex 下的 space-between](https://codepen.io/Chokcoco/pen/gJXawm)
 
 ## 阴影(box-shadow、drop-shadow)
 
