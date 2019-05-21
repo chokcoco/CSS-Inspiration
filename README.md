@@ -20,7 +20,8 @@
 + [圣杯布局（flex实现）](https://chokcoco.github.io/CSS-Inspiration/#/./layout/flex-holy-grail-layout.md)
 + [双飞翼布局](https://chokcoco.github.io/CSS-Inspiration/#/./layout/double-wing-layout.md)
 + [实现垂直居中最便捷的方法](https://codepen.io/Chokcoco/pen/GarPev)
-+ [使用 margin auto 实现 flex 下的 space-between](https://codepen.io/Chokcoco/pen/gJXawm)
++ [使用 margin auto 实现 flex 下的 justify-content: space-between](https://codepen.io/Chokcoco/pen/gJXawm)
++ [使用 margin auto 实现 flex 下的 align-self: flex-end](https://codepen.io/Chokcoco/pen/PvOZMr)
 
 ## 阴影(box-shadow、drop-shadow)
 
