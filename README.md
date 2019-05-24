@@ -93,6 +93,7 @@
 + [使用线性渐变实现滚动进度条](https://codepen.io/Chokcoco/pen/KbBXQM)
 + [使用线性渐变实现类迷宫图形](https://codepen.io/Chokcoco/pen/zXYJaW)
 + [使用渐变实现波浪下划线](https://codepen.io/Chokcoco/pen/vMyBQe?editors=1100)
++ [使用线性渐变模拟进度条运动](https://codepen.io/Chokcoco/pen/EzZwXg)
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
