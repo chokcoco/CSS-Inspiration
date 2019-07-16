@@ -77,6 +77,7 @@
 + [border-color 变换实现文字输入效果](https://chokcoco.github.io/CSS-Inspiration/#/./border/border-typing.md)
 + [活用 border-radius, 单标签线条动画](https://codepen.io/Chokcoco/pen/xBxvdZ)
 + [使用 border-radius，模拟绳子下坠动画](https://codepen.io/Chokcoco/pen/yWjjjq)
++ [使用 outline 巧妙实现加号符号](https://codepen.io/Chokcoco/pen/PrrLaP)
 
 ## 背景/渐变(linear-gradient/radial-gradient/conic-gradient)
 
