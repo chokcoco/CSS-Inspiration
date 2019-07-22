@@ -67,6 +67,7 @@
 + [使用 filter:blur | filter:constrast 单标签实现滴水效果](https://codepen.io/Chokcoco/pen/gZVjJw)
 + [使用 filter:blur | filter:constrast 小球穿梭效果](https://codepen.io/Chokcoco/pen/ZwYyKO)
 + [使用 hue-rotate 实现渐变背景动画](https://codepen.io/Chokcoco/pen/MRegJW)
++ [使用 drop-shadow 配合 clip-path 生成规则阴影](https://codepen.io/Chokcoco/pen/oKjxpR)
 
 
 ## 边框(border)
