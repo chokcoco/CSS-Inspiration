@@ -134,7 +134,7 @@
 
 ## 综合
 
-+ [retina屏下的1px线的实现（兼容2x屏、3x屏幕）](https://chokcoco.github.io/CSS-Inspiration/#/./others/1px-line.md)
++ [retina屏下的1px线的实现（兼容2x屏、3x屏幕）](https://codepen.io/Chokcoco/pen/XyNjqK)
 + [CSS线条动画](https://codepen.io/Chokcoco/pen/XogwvV)
 + [PURE CSS 实现鼠标跟随](https://codepen.io/Chokcoco/pen/MZqMVO)
 + [hover | transition 实现鼠标跟随](https://codepen.io/Chokcoco/pen/XgvjQM)
