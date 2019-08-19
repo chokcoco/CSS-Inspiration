@@ -152,5 +152,5 @@
 
 ## CSS-doodle
 
-+ [css-doodle 3d Line](https://codepen.io/Chokcoco/pen/mdbPZpq)
-+ [CSS Doodle Random Polygon](https://codepen.io/Chokcoco/pen/pozEgzm)
++ [CSS-doodle 3d Line](https://codepen.io/Chokcoco/pen/mdbPZpq)
++ [CSS-doodle Random Polygon](https://codepen.io/Chokcoco/pen/pozEgzm)
