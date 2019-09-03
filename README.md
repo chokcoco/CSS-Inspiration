@@ -126,7 +126,7 @@
 + [借助transition-delay简单多重圆的位移](https://codepen.io/Chokcoco/pen/QzzwVO)
 + [动画正负旋转相消](https://codepen.io/Chokcoco/pen/XaBJPy)
 + [巧妙使用 css 控制动画行进](https://codepen.io/Chokcoco/pen/ZPgxwy)
-+ [巧妙使用 border 实现下落动画]
++ [巧妙使用 border 实现绳索下落动画](https://codepen.io/Chokcoco/pen/yWjjjq)
 
 ## 文本类
 
