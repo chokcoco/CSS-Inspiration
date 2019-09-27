@@ -145,6 +145,7 @@
 + [纯CSS鼠标跟随按钮动画效果](https://codepen.io/Chokcoco/pen/OqXqVz)
 + [纯CSS实现蜡烛火焰效果](https://codepen.io/Chokcoco/pen/jJJbmz)
 + [使用CSS让你的浏览器崩溃](https://codepen.io/Chokcoco/pen/moMzxB)
++ [使用opacity优化box-shadow动画](https://codepen.io/Chokcoco/pen/zYObVRJ)
 
 ## SVG
 
