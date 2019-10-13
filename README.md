@@ -128,6 +128,10 @@
 + [巧妙使用 css 控制动画行进](https://codepen.io/Chokcoco/pen/ZPgxwy)
 + [巧妙使用 border 实现绳索下落动画](https://codepen.io/Chokcoco/pen/yWjjjq)
 
+## clip-path
+
++[clip-path 实现文字断裂效果](https://codepen.io/Chokcoco/pen/NWWxryd)
+
 ## 文本类
 
 + [使用text-decoration实现波浪效果](https://codepen.io/Chokcoco/pen/YMWavM)
