@@ -130,7 +130,7 @@
 
 ## clip-path
 
-+[clip-path 实现文字断裂效果](https://codepen.io/Chokcoco/pen/NWWxryd)
++ [clip-path 实现文字断裂效果](https://codepen.io/Chokcoco/pen/NWWxryd)
 
 ## 文本类
 
@@ -153,13 +153,4 @@
 
 ## SVG
 
-+ [使用 SVG 实现文字弧形排列](https://chokcoco.github.io/CSS-Inspiration/#/./svg/svg-arc-word.md)
-+ [CSS线条动画](https://codepen.io/Chokcoco/pen/XogwvV)
-
-## CSS-doodle
-
-+ [CSS-doodle 3d Line](https://codepen.io/Chokcoco/pen/mdbPZpq)
-+ [CSS-doodle Random Polygon](https://codepen.io/Chokcoco/pen/pozEgzm)
-+ [CSS-doodle Rotate](https://codepen.io/Chokcoco/pen/XWWWVzR)
-+ [百叶窗效果](https://codepen.io/Chokcoco/pen/mdbrPVY?editors=1010)
-
++ [使用 SVG 实现文字弧形排
