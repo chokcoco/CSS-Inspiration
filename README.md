@@ -131,6 +131,7 @@
 + [动画正负旋转相消](https://codepen.io/Chokcoco/pen/XaBJPy)
 + [巧妙使用 css 控制动画行进](https://codepen.io/Chokcoco/pen/ZPgxwy)
 + [巧妙使用 border 实现绳索下落动画](https://codepen.io/Chokcoco/pen/yWjjjq)
++ [巧用overflow及transform实现线条hover效果](https://codepen.io/Chokcoco/pen/PooBpQe)
 
 ## clip-path
 
