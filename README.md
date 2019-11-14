@@ -156,6 +156,7 @@
 + [使用CSS让你的浏览器崩溃](https://codepen.io/Chokcoco/pen/moMzxB)
 + [使用opacity优化box-shadow动画](https://codepen.io/Chokcoco/pen/zYObVRJ)
 + [单标签纯CSS实现幽灵动画](https://codepen.io/Chokcoco/pen/vYYrNOO)
++ [chrome Tab 分栏实现](https://codepen.io/Chokcoco/pen/WNNgyMV)
 
 ## SVG
 
