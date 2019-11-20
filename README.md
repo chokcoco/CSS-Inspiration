@@ -162,6 +162,7 @@
 
 + [夏日城市夕阳图🌇](https://codepen.io/Chokcoco/pen/BaaqYZO)
 + [CSS-Doodle fish 🐟 & seaweed 🍀](https://codepen.io/Chokcoco/pen/WNNLOXV)
++ [CSS-Doodle spotlight🎆](https://codepen.io/Chokcoco/pen/xxxMoqV)
 
 ## SVG
 
