@@ -122,6 +122,7 @@
 + [3D Spiral Number](https://codepen.io/Chokcoco/pen/LeWbaB)
 + [CSS 3D MAZE, 惊艳的 CSS 3D 线条特效](https://codepen.io/Chokcoco/pen/dLYpxK)
 + [3D 无限延伸视角动画](https://codepen.io/Chokcoco/pen/eYYJaMZ)
++ [3D 数字计数动画](https://codepen.io/Chokcoco/pen/qXVxyw)
 
 ## 动画/过渡(transition/animation)
 
