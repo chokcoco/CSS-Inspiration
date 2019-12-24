@@ -75,6 +75,7 @@
 
 + [活用 border-radius, 实现波浪动画](https://chokcoco.github.io/CSS-Inspiration/#/./border/border-wave.md)
 + [活用 border-radius, 实现波浪百分比图](https://chokcoco.github.io/CSS-Inspiration/#/./border/border-wave-percent.md)
++ [活用 border-radius, 实现电池充电效果](https://codepen.io/Chokcoco/pen/qBErGoO)
 + [border-radius 变换实现 loading 效果](https://chokcoco.github.io/CSS-Inspiration/#/./border/border-loading.md)
 + [border-color 变换实现文字输入效果](https://chokcoco.github.io/CSS-Inspiration/#/./border/border-typing.md)
 + [活用 border-radius, 单标签线条动画](https://codepen.io/Chokcoco/pen/xBxvdZ)
@@ -159,6 +160,8 @@
 + [单标签纯CSS实现幽灵动画](https://codepen.io/Chokcoco/pen/vYYrNOO)
 + [chrome Tab 分栏实现](https://codepen.io/Chokcoco/pen/WNNgyMV)
 + [华为充电动画 HuaWei Battery Charging Animation](https://codepen.io/Chokcoco/pen/vYExwvm?editors=1100)
+
+
 ## CSS-Doodle
 
 + [夏日城市夕阳图🌇](https://codepen.io/Chokcoco/pen/BaaqYZO)
