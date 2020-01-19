@@ -109,21 +109,19 @@
 + [使用 mix-blend-mode 实现抖音 LOGO](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-douyin-logo.md)
 + [类抖音 LOGO 晕眩效果](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-mix.md)
 + [使用 mix-blend-mode 实现图片任意颜色赋值技术](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-color-set.md)
-+ [CSS MIX](https://codepen.io/Chokcoco/pen/REoKpQ)
-+ [CSS MAGIC MIX](https://codepen.io/Chokcoco/pen/bOgamV)
-+ [CSS MAGIC MIX2](https://codepen.io/Chokcoco/pen/royQvE?editors=1100)
-+ [CSS WAVE MOVE(惊艳的水波效果)](https://codepen.io/Chokcoco/pen/VqbxQr)
++ [CSS MIX](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-mix.md)
++ [CSS WAVE MOVE(惊艳的水波效果)](https://chokcoco.github.io/CSS-Inspiration/#/./blendmode/blend-water-wave.md)
 
 ## 3D
 
 + [使用 translateZ 实现滚动视差](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-translate-parallax.md) 
 + [借助 translate3d\perspective 实现 3D 视差效果](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-parallax.md) 
 + [借助 translate3d\perspective 实现 3D 视差效果2](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-parallax2.md) 
-+ [3d 球动画](https://codepen.io/Chokcoco/pen/JwdvmJ) 
-+ [3D Spiral Number](https://codepen.io/Chokcoco/pen/LeWbaB)
-+ [CSS 3D MAZE, 惊艳的 CSS 3D 线条特效](https://codepen.io/Chokcoco/pen/dLYpxK)
-+ [3D 无限延伸视角动画](https://codepen.io/Chokcoco/pen/eYYJaMZ)
-+ [3D 数字计数动画](https://codepen.io/Chokcoco/pen/qXVxyw)
++ [3D 球动画](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-ball.md) 
++ [3D 螺旋数字动画](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-spiral-number.md)
++ [3D 迷宫线条特效](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-maze.md)
++ [3D 无限延伸视角动画](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-infinite-maze.md)
++ [3D 数字计数动画](https://chokcoco.github.io/CSS-Inspiration/#/./3d/3d-count-number.md)
 
 ## 动画/过渡(transition/animation)
 
