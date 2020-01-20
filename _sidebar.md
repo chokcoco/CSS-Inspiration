@@ -2,7 +2,7 @@
 
 + [引言](./init.md)
 
-## Layout
+## 布局(Layout)
 
 + [CSS实现瀑布流布局（display: flex）](./layout/flex-waterfalls-flow.md) 
 + [CSS实现瀑布流布局（colum+count）](./layout/colum-waterfalls-flow.md)
@@ -37,6 +37,7 @@
 ## 伪类/伪元素
 
 + [使用`:not()`伪类实现弹窗背景元素模糊](./pesudo/pesudo-not.md)
++ [使用`:not()`伪类控制特殊边框样式](./pesudo/pesudo-not-2.md)
 + [伪类`:focus-within`纯 CSS 方式实现掘金登陆特效](./pesudo/pesudo-juejin.md)
 + [伪类`placeholder-shown`实现表单交互](./pesudo/pesudo-focus-within-placeholder-shown.md) 
 + [伪元素配合 border 实现气泡对话框](./pesudo/pesudo-bubble.md)
@@ -63,6 +64,7 @@
 + [使用 filter:blur | filter:constrast 实现小球穿梭放大loading动画](./filter/filter-ball-loading.md)
 + [使用 hue-rotate 实现渐变背景动画](./filter/filter-hue-rotate-color.md)
 + [使用 drop-shadow 配合 clip-path 生成规则阴影](./filter/filter-polygon-shadow.md)
++ [单标签纯CSS实现幽灵动画](./filter/filter-ghost.md)
 
 ## 边框(border)
 
@@ -74,6 +76,7 @@
 + [活用 border-radius, 单标签线条动画](./border/border-line-animation.md)
 + [使用 border-radius，模拟绳子下坠动画](./border/border-line-drop-animation.md)
 + [使用 outline 巧妙实现加号符号](./border/border-outline-symbol-add.md)
++ [巧用 overflow 及实现边框线条动画](./border/border-overflow-btn.md)
 
 ## 背景/渐变(linear-gradient/radial-gradient/conic-gradient)
 
@@ -115,23 +118,43 @@
 + [3D 迷宫线条特效](./3d/3d-maze.md)
 + [3D 无限延伸视角动画](./3d/3d-infinite-maze.md)
 + [3D 数字计数动画](./3d/3d-count-number.md)
++ [3D 线条动画](./3d/3d-line.md)
 
 ## 动画/过渡(transition/animation)
 
-+ [借助transition-delay实现按钮border动画效果](./animation/animation-button-border.md)
-+ [CSS实现曲线运动](./animation/animation-curve.md)
-+ [借助transition-delay简单多重圆的位移](https://codepen.io/Chokcoco/pen/QzzwVO)
-+ [动画正负旋转相消](https://codepen.io/Chokcoco/pen/XaBJPy)
++ [transition-delay 实现按钮border动画效果](./animation/animation-button-border.md)
++ [简单曲线运动](./animation/animation-curve.md)
++ [正负旋转相消动画](./animation/animation-rotate.md)
++ [CSS 巧妙控制动画行进](./animation/animation-play-state.md)
+
+## clip-path
+
++ [clip-path 实现文字断裂效果](./clippath/clippath-word-crack.md)
+
+## 文本类
+
++ [使用text-decoration实现波浪效果](./text/text-underline-wave.md)
+
+## 综合
+
++ [Retina屏下的1px线的实现（兼容2x屏、3x屏幕）](./others/1px-line.md)
++ [纯CSS实现鼠标跟随](./others/pointer-follow.md)
++ [纯CSS实现鼠标跟随2](./others/pointer-follow-2.md)
++ [纯CSS实现鼠标跟随3](./others/pointer-follow-3.md)
++ [CSS文字分裂特效](./others/word-break.md)
++ [CSS文字分裂移动特效](./others/word-break-move.md)
++ [纯CSS实现360°饼图](./others/others-pie.md)
++ [chrome Tab 分栏实现](./others/others-chrome-tab.md)
++ [华为充电动画](./others/ohters-huawei-charging.md)
+
+## CSS-Doodle
+
++ [夏日城市夕阳图🌇](./cssdoodle/sunset.md)
++ [CSS-Doodle fish 🐟 & seaweed 🍀](./cssdoodle/fish-seaweed.md)
++ [CSS-Doodle spotlight🎆](./cssdoodle/spotlight.md)
 
 ## SVG
 
 + [使用 SVG 实现文字弧形排列](./svg/svg-arc-word.md)
-
-## 综合
-
-+ [retina屏下的1px线的实现](./others/1px-line.md)
-+ [MAGIC CSS MIX](https://codepen.io/Chokcoco/pen/XogwvV)
-+ [PURE CSS 实现鼠标跟随](https://codepen.io/Chokcoco/pen/MZqMVO)
-+ [鼠标跟随动画 PURE CSS MAGIC MIX](https://codepen.io/Chokcoco/pen/zyyYqN)
-+ [CSS文字分裂特效](https://codepen.io/Chokcoco/pen/wRZKNY)
-+ [CSS TEXT Animation](https://codepen.io/Chokcoco/pen/dwxPWO)
++ [支付宝AR扫福动画](./svg/alipay-ar-scan.md)
++ [SVG Btn Hover Animations](./svg/svg-btn-hover.md)
