@@ -145,7 +145,8 @@
 + [CSS文字分裂移动特效](./others/word-break-move.md)
 + [纯CSS实现360°饼图](./others/others-pie.md)
 + [chrome Tab 分栏实现](./others/others-chrome-tab.md)
-+ [华为充电动画](./others/ohters-huawei-charging.md)
++ [华为充电动画](./others/others-huawei-charging.md)
++ [夜晚居室图](./others/others-night.md)
 
 ## CSS-Doodle
 
