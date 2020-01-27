@@ -130,6 +130,7 @@
 ## clip-path
 
 + [clip-path 实现文字断裂效果](./clippath/clippath-word-crack.md)
++ [clip-path 实现边框线条动画](./clippath/clippath-border-line.md)
 
 ## 文本类
 
