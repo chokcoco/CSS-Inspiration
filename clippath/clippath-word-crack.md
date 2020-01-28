@@ -142,7 +142,7 @@ h1::after {
 }
 ```
 
-效果如下（点击 `PUG/SCSS` 可以对代码进行编辑）：
+效果如下：
 
 <iframe height="350" style="width: 100%;" scrolling="no" title="Pure Css Text Crack" src="https://codepen.io/Chokcoco/embed/NWWxryd?height=350&theme-id=default&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/Chokcoco/pen/NWWxryd'>Pure Css Text Crack</a> by Chokcoco
