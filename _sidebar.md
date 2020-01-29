@@ -102,7 +102,8 @@
 + [mix-blend-mode 实现 loading 效果](./blendmode/blend-loading.md)
 + [mix-blend-mode 实现颜色叠加旋转动画](./blendmode/blend-rotate.md)
 + [使用 mix-blend-mode 实现抖音 LOGO](./blendmode/blend-douyin-logo.md)
-+ [类抖音 LOGO 晕眩效果](./blendmode/blend-mix-tiktok.md)
++ [图片的类抖音 LOGO 晕眩效果](./blendmode/blend-mix-img.md)
++ [类抖音 LOGO 文字故障效果](./blendmode/blend-text-glitch.md)
 + [使用 mix-blend-mode 实现图片任意颜色赋值技术](./blendmode/blend-color-set.md)
 + [CSS MIX](./blendmode/blend-mix.md)
 + [CSS WAVE MOVE(惊艳的水波效果)](./blendmode/blend-water-wave.md)
@@ -133,7 +134,6 @@
 + [clip-path 实现边框线条动画](./clippath/clippath-border-line.md)
 + [clip-path 和 border-image 实现圆角渐变边框](./clippath/clippath-border-image)
 
-
 ## 文本类
 
 + [使用text-decoration实现波浪效果](./text/text-underline-wave.md)
@@ -146,6 +146,7 @@
 + [纯CSS实现鼠标跟随3](./others/pointer-follow-3.md)
 + [CSS文字分裂特效](./others/word-break.md)
 + [CSS文字分裂移动特效](./others/word-break-move.md)
++ [CSS文字故障效果](./others/word-glitch.md)
 + [纯CSS实现360°饼图](./others/others-pie.md)
 + [chrome Tab 分栏实现](./others/others-chrome-tab.md)
 + [华为充电动画](./others/others-huawei-charging.md)

@@ -1,4 +1,4 @@
-## 类抖音 LOGO 晕眩效果
+## 图片的类抖音 LOGO 晕眩效果
 
 使用 background-blend-mode | mix-blend-mode 实现类抖音LOGO晕眩效果。
 
@@ -27,7 +27,6 @@ SCSS：
 ```scss
 .mix3d {
     margin: 30px auto 0;
-    display: block;
     width: 400px;
     height: 400px;
     z-index: 2;
@@ -38,7 +37,6 @@ SCSS：
   &:after {
     content: '';
     position: absolute;
-    display: block;
     width: 400px;
     height: 400px;
     z-index: 3;

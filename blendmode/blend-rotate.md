@@ -71,7 +71,7 @@ body {
 }
 ```
 
-效果如下（点击 `Pug/SCSS` 可以对代码进行编辑）：
+效果如下：
 
 <iframe height='400' scrolling='no' title='pureCssAnimation(webkit Only)' src='//codepen.io/Chokcoco/embed/VbMrKX/?height=265&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Chokcoco/pen/VbMrKX/'>pureCssAnimation(webkit Only)</a> by Chokcoco (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
