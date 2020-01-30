@@ -133,6 +133,7 @@
 + [clip-path 实现文字断裂效果](./clippath/clippath-word-crack.md)
 + [clip-path 实现边框线条动画](./clippath/clippath-border-line.md)
 + [clip-path 和 border-image 实现圆角渐变边框](./clippath/clippath-border-image)
++ [clip-path 实现图片的故障艺术风格动画](./clippath/clippath-img-glitch)
 
 ## 文本类
 
