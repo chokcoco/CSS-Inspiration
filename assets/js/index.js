@@ -12,6 +12,21 @@ window.$docsify = {
     loadSidebar: true,
     name: 'CSS Inspiration -- CSS灵感',
     repo: 'https://github.com/chokcoco/CSS-Inspiration',
+    search: 'auto', // 默认值
+    search : [
+        '/',            // => /README.md
+    ],
+    // 完整配置参数
+    search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto', // or 'auto'
+        placeholder: '搜索效果或CSS关键字，优惠券 或者 clip-path',
+  
+        noData: 'No Results!',
+  
+        // 搜索标题的最大程级, 1 - 6
+        depth: 1
+    },
     plugins: [
         function(hook, vm) {
             hook.beforeEach(function(html) {
