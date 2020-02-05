@@ -127,6 +127,7 @@
 + [简单曲线运动](./animation/animation-curve.md)
 + [正负旋转相消动画](./animation/animation-rotate.md)
 + [CSS 巧妙控制动画行进](./animation/animation-play-state.md)
++ [scale 配合 transfrom-origin 精准控制动画方向](./animation/animation-direction.md)
 
 ## clip-path
 
@@ -152,6 +153,7 @@
 + [chrome Tab 分栏实现](./others/others-chrome-tab.md)
 + [华为充电动画](./others/others-huawei-charging.md)
 + [夜晚居室图](./others/others-night.md)
++ [等角螺线](https://codepen.io/Chokcoco/pen/jOEgrvJ)
 
 ## CSS-Doodle
 

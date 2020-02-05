@@ -130,6 +130,7 @@
 + [简单曲线运动](https://chokcoco.github.io/CSS-Inspiration/#/./animation/animation-curve.md)
 + [正负旋转相消动画](https://chokcoco.github.io/CSS-Inspiration/#/./animation/animation-rotate.md)
 + [CSS 巧妙控制动画行进](https://chokcoco.github.io/CSS-Inspiration/#/./animation/animation-play-state.md)
++ [scale 配合 transfrom-origin 精准控制动画方向](https://chokcoco.github.io/CSS-Inspiration/#/./animation/animation-direction.md)
 
 ## clip-path
 
