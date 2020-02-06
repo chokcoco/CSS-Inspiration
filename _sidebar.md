@@ -153,7 +153,7 @@
 + [chrome Tab 分栏实现](./others/others-chrome-tab.md)
 + [华为充电动画](./others/others-huawei-charging.md)
 + [夜晚居室图](./others/others-night.md)
-+ [等角螺线](https://codepen.io/Chokcoco/pen/jOEgrvJ)
++ [等角螺线](./others/others-equiangular-spiral.md)
 
 ## CSS-Doodle
 
