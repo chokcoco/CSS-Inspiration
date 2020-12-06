@@ -80,8 +80,7 @@
 
 ## 背景/渐变(linear-gradient/radial-gradient/conic-gradient)
 
-+ [线性渐变实现条纹字](./background/bg-stripe.md) 
-+ [重复径向渐变实现波浪边框](./background/bg-wave-border.md) 
++ [重复径向渐变实现波浪边框](./background/bg-wave-border.md)
 + [渐变实现波浪效果/波浪进度框](./background/bg-wave.md) 
 + [渐变实现优惠券波浪造型](./background/bg-coupon.md) 
 + [线性渐变实现内切直角](./background/bg-inscribed.md) 
@@ -91,11 +90,15 @@
 + [使用 background-attachment 实现毛玻璃效果](./background/bg-frosted-glass.md) 
 + [使用渐变实现舞台灯光聚焦效果](./background/bg-focus.md) 
 + [圆锥渐变配合混合模式实现炫酷光影效果](./background/bg-conic-gradient-animation.md)
-+ [mask-image 实现图片变幻](./background/bg-mask-image.md)
 + [使用线性渐变实现滚动进度条](./background/bg-scroll-indicator.md)
 + [使用线性渐变实现类迷宫图形](./background/bg-linear-gradient-maze.md)
 + [使用线性渐变模拟进度条运动](./background/bg-linear-progress-bar.md)
 + [使用多重背景单标签实现气泡按钮点击效果](./background/bg-btn-click-bubble.md)
++ [角向渐变实现纯 CSS 圆环进度图](./background/bg-conic-circle-loading.md) 
++ [使用 mask 实现图片变幻](./background/bg-mask-image.md)
++ [使用 mask 制作图片的转场](./background/bg-mask-transition.md)
++ [线性渐变实现条纹字](./background/bg-stripe.md) 
+
 
 ## 混合模式（mix-blend-mode/background-blend-mode)
 
@@ -107,7 +110,7 @@
 + [使用 mix-blend-mode 实现图片任意颜色赋值技术](./blendmode/blend-color-set.md)
 + [CSS MIX](./blendmode/blend-mix.md)
 + [CSS WAVE MOVE(惊艳的水波效果)](./blendmode/blend-water-wave.md)
-
++ [mix-blend-mode 叠加多重渐变背景](./blendmode/mix-multi-graidient-bg.md) 
 
 ## 3D
 
@@ -158,8 +161,10 @@
 ## CSS-Doodle
 
 + [夏日城市夕阳图🌇](./cssdoodle/sunset.md)
-+ [CSS-Doodle fish 🐟 & seaweed 🍀](./cssdoodle/fish-seaweed.md)
++ [CSS-Doodle background + mask 实现万花筒效果](./cssdoodle/bg-mask-composite.md)
++ [CSS-Doodle background + mask 实现条纹艺术背景](./cssdoodle/bg-mask-mix.md)
 + [CSS-Doodle spotlight🎆](./cssdoodle/spotlight.md)
++ [CSS-Doodle fish 🐟 & seaweed 🍀](./cssdoodle/fish-seaweed.md)
 
 ## SVG
 

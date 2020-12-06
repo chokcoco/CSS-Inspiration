@@ -6,6 +6,8 @@ mask-image 实现图片变幻。
 
 再利用动画，让 `mask-image: linear-gradient` 的角度旋转起来。
 
+详见：[奇妙的 CSS MASK](https://github.com/chokcoco/iCSS/issues/80)
+
 HTML：
 
 ```html
