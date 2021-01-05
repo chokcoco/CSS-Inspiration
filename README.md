@@ -2,6 +2,12 @@
 
 这里可以让你寻找到使用或者是学习 CSS 的灵感，以分类的形式，展示不同 CSS 属性或者不同的课题使用 CSS 来解决的各种方法。
 
+## iCSS 前端趣闻
+
+想 Get 到最有意思的 CSS 资讯，千万不要错过我的 iCSS 公众号 😄
+
+<img width=160 src="https://user-images.githubusercontent.com/8554143/54919342-6d0dfd00-4ef8-11e9-9ee8-fbae9241d89e.png">
+
 ## 在线预览
 
 [Online Pages](https://chokcoco.github.io/CSS-Inspiration/#/)
