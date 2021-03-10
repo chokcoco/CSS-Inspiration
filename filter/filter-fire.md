@@ -124,7 +124,7 @@ body {
 }
 ```
 
-效果如下（点击 `Pug/SCSS` 可以对代码进行编辑）：
+效果如下：
 
 <iframe height='350' scrolling='no' title='CSS fire| CSS filter mix' src='//codepen.io/Chokcoco/embed/GvbMmE/?height=265&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Chokcoco/pen/GvbMmE/'>CSS fire| CSS filter mix</a> by Chokcoco (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>

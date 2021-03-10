@@ -1,6 +1,6 @@
-## PURE CSS 实现鼠标跟随
+## PURE CSS 实现鼠标跟随2
 
-PURE CSS 实现鼠标跟随。
+PURE CSS 实现鼠标跟随2。
 
 ### 关键点
 

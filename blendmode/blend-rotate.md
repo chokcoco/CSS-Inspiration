@@ -1,6 +1,6 @@
-## mix-blend-mode 实现 loading 效果
+## mix-blend-mode 实现颜色叠加旋转动画
 
-mix-blend-mode 实现 loading 效果。
+mix-blend-mode 实现颜色叠加旋转动画。
 
 CSS3 新增了一个很有意思的属性 -- `mix-blend-mode` ，其中 mix 和 blend 的中文意译均为混合，那么这个属性的作用直译过来就是混合混合模式，当然，我们我们通常称之为混合模式。
 

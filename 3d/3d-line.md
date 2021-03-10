@@ -79,7 +79,7 @@ body {
 }
 ```
 
-效果如下（点击 `PUG/SCSS` 可以对代码进行编辑）：
+效果如下：
 
 <iframe height="350" style="width: 100%;" scrolling="no" title="CSS线条动画" src="https://codepen.io/Chokcoco/embed/XogwvV?height=350&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/Chokcoco/pen/XogwvV'>CSS线条动画</a> by Chokcoco

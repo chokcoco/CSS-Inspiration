@@ -1,6 +1,6 @@
 ## 小球穿梭放大loading动画
 
-小球穿梭放大loading动画
+小球穿梭放大loading动画。
 
 ### 关键点 
 
@@ -111,7 +111,7 @@ html {
 }
 ```
 
-效果如下（点击 `Pug/SCSS` 可以对代码进行编辑）：
+效果如下：
 
 <iframe height="350" style="width: 100%;" scrolling="no" title="loading animation" src="https://codepen.io/Chokcoco/embed/BaaQEab?height=350&theme-id=default&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/Chokcoco/pen/BaaQEab'>loading animation</a> by Chokcoco

@@ -1,6 +1,6 @@
-## 借助 translate3d\perspective 实现 3D 视差效果
+## 借助 translate3d\perspective 实现 3D 视差效果2
 
-借助 translate3d\perspective 实现 3D 视差效果。
+借助 translate3d\perspective 实现 3D 视差效果2。
 
 视差滚动（Parallax Scrolling）是指让多层背景以不同的速度移动，形成立体的运动效果，带来非常出色的视觉体验。 作为网页设计的热点趋势，越来越多的网站应用了这项技术。
 
@@ -79,7 +79,7 @@ body {
 }
 ```
 
-效果如下（点击 `PUG/SCSS` 可以对代码进行编辑）：
+效果如下：
 
 <iframe height='350' scrolling='no' title='CSS 视差' src='//codepen.io/Chokcoco/embed/PBXwdX/?height=265&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Chokcoco/pen/PBXwdX/'>CSS 视差</a> by Chokcoco (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>

@@ -1,6 +1,6 @@
-## CSS-Doodle background + mask 实现万花筒效果
+## CSS-Doodle background + mask 实现条纹艺术背景
 
-CSS-Doodle background + mask 实现万花筒效果
+CSS-Doodle background + mask 实现条纹艺术背景
 
 ### CSS-doodle
 

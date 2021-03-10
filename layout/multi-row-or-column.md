@@ -119,7 +119,7 @@ h2 {
 }
 ```
 
-效果如下（点击 `Pug/SCSS` 可以对代码进行编辑）：
+效果如下：
 
 <iframe height='350' scrolling='no' title='多方案实现跨行或跨列布局' src='//codepen.io/Chokcoco/embed/BqWXQB/?height=265&theme-id=0&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Chokcoco/pen/BqWXQB/'>多方案实现跨行或跨列布局</a> by Chokcoco (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>

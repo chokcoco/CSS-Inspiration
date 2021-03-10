@@ -19,7 +19,7 @@ window.$docsify = {
         placeholder: '搜索效果或CSS关键字，优惠券 或者 clip-path',
         noData: 'No Results!',
         // 搜索标题的最大程级, 1 - 6
-        depth: 6
+        depth: 2
     },
     plugins: [
         function(hook, vm) {

@@ -1,7 +1,6 @@
 ## 3D 球动画
 
 3D 球动画。
-
 ### 关键点
 
 + 借助 SASS，利用公式，随机将 100 个点附着在球表面，再进行动
@@ -114,7 +113,7 @@ body {
 }
 ```
 
-效果如下（点击 `PUG/SCSS` 可以对代码进行编辑）：
+效果如下：
 
 <iframe height="400" style="width: 100%;" scrolling="no" title="3D ball" src="https://codepen.io/Chokcoco/embed/JwdvmJ?height=400&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/Chokcoco/pen/JwdvmJ'>3D ball</a> by Chokcoco

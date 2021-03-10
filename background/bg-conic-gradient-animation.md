@@ -1,10 +1,10 @@
-## 圆锥渐变配合混合模式实现炫酷光影效果
+## 角向渐变配合混合模式实现炫酷光影效果
 
-圆锥渐变配合混合模式实现炫酷光影效果。
+角向渐变配合混合模式实现炫酷光影效果。
 
-圆锥渐变，又叫角向渐变，属于正在路上的标准，具体的，可以看看我的这篇文章：
+角向渐变，又叫角向渐变，属于正在路上的标准，具体的，可以看看我的这篇文章：
 
-[神奇的 conic-gradient 圆锥渐变](https://www.cnblogs.com/coco1s/p/7079529.html)
+[神奇的 conic-gradient 角向渐变](https://www.cnblogs.com/coco1s/p/7079529.html)
 
 HTML：
 
@@ -63,7 +63,7 @@ div {
 }
 ```
 
-上面效果，使用了圆锥渐变 polyfill JS 库：
+上面效果，使用了角向渐变 polyfill JS 库：
 
 + https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js
 + https://leaverou.github.io/conic-gradient/conic-gradient.js

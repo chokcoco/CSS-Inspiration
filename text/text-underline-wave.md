@@ -58,7 +58,7 @@ div {
 }
 ```
 
-效果如下（点击 `PUG/SCSS` 可以对代码进行编辑）：
+效果如下：
 
 <iframe height="350" style="width: 100%;" scrolling="no" title="下划线实现波浪" src="https://codepen.io/Chokcoco/embed/YMWavM?height=350&theme-id=default&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/Chokcoco/pen/YMWavM'>下划线实现波浪</a> by Chokcoco

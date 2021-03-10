@@ -337,7 +337,7 @@ div::before {
 
 效果如下：
 
-<iframe height="500" style="width: 100%;" scrolling="no" title="Clip-path 的 Glitch Art" src="https://codepen.io/Chokcoco/embed/eYmaoNg?height=500&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+<iframe height="500g" style="width: 100%;" scrolling="no" title="Clip-path 的 Glitch Art" src="https://codepen.io/Chokcoco/embed/eYmaoNg?height=500g&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/Chokcoco/pen/eYmaoNg'>Clip-path 的 Glitch Art</a> by Chokcoco
   (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>

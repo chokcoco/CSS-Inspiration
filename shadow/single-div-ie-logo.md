@@ -1,4 +1,4 @@
-## 单标签借助 inset shdow 实现IE LOGO
+## 单标签借助 inset shadow 实现IE LOGO
 
 单标签借助 inset shdow 实现IE LOGO。
 

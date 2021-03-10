@@ -252,7 +252,7 @@ body {
 }
 ```
 
-效果如下（点击 `PUG/SCSS` 可以对代码进行编辑）：
+效果如下：
 
 <iframe height="400" style="width: 100%;" scrolling="no" title="3d Number Count" src="https://codepen.io/Chokcoco/embed/qXVxyw?height=400&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/Chokcoco/pen/qXVxyw'>3d Number Count</a> by Chokcoco

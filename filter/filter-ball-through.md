@@ -83,7 +83,7 @@ body {
 }
 ```
 
-效果如下（点击 `Pug/SCSS` 可以对代码进行编辑）：
+效果如下：
 
 <iframe height="320" style="width: 100%;" scrolling="no" title="ball through" src="https://codepen.io/Chokcoco/embed/ZwYyKO?height=320&theme-id=default&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/Chokcoco/pen/ZwYyKO'>ball through</a> by Chokcoco

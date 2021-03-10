@@ -1,6 +1,6 @@
-## 使用 outline 巧妙实现加号符号
+## 使用 border-radius 的变化模拟绳子下坠
 
-使用 outline 巧妙实现加号符号。
+使用 border-radius 的变化模拟绳子下坠。
 
 ### 关键点 
 

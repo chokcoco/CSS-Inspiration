@@ -152,7 +152,7 @@ div {
 }
 ```
 
-效果如下（点击 `PUG/SCSS` 可以对代码进行编辑）：
+效果如下：
 
 <iframe height="600" style="width: 100%;" scrolling="no" title="Perspective Origin Tunnel Animation" src="https://codepen.io/Chokcoco/embed/eYYJaMZ?height=600&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/Chokcoco/pen/eYYJaMZ'>Perspective Origin Tunnel Animation</a> by Chokcoco
