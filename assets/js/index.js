@@ -45,6 +45,11 @@ window.$docsify = {
 
       hook.doneEach(function () {
         const label = vm.route.path.split("/").pop();
+
+        if (!label || label === 'init') {
+          return;
+        }
+
         gitalkRender(vm, label);
         insertPvAndLike(label);
         insertLikeDOM(label);
@@ -68,7 +73,6 @@ async function insertPvAndLike(label) {
     
     if (!data.ret) {
       const { likes = 0, pv = 0, ct = new Date().getTime() } = data.data;
-      console.log('likes pv', likes, pv);
       insertPvDOM(pv, likes, ct);
     }
   })
@@ -115,8 +119,6 @@ function insertPvDOM(pv, likes, ct) {
   divEle = domObj.create("div");
   divEle.className = "g-pv-container";
   divEle.innerHTML = `<span class="g-time">创建于 ${format(ct)}</span><span class="g-pv">阅读 ${pv}</span><span class="g-likes">喜爱 ${likes}</span>`;
-  console.log('Docsify', Docsify);
-  console.log('domObj.find("h2")', domObj.findAll("h2").pop());
 
   domObj.appendTo(document.querySelector('#main h2'), divEle);
 }
@@ -129,7 +131,7 @@ function insertLikeDOM(label) {
   }
 
   const isLiked = localStorage.getItem(`id_${label}`);
-  console.log('isLiked', isLiked);
+
   let domObj, divEle;
 
   domObj = Docsify.dom;
