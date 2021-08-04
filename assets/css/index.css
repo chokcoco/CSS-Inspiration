@@ -105,3 +105,71 @@ h2 a:hover {
 .token.selector {
     font-size: 1.1em;
 }
+
+.markdown-section h2 {
+    padding-bottom: 12px;
+    margin-bottom: 12px;
+}
+
+.g-pv-container {
+    font-size: 12px;
+    color: #bbb;    
+}
+
+.g-pv-container .g-time,
+.g-pv-container .g-pv {
+    margin-right: 12px;
+}
+
+.g-btn-like-container {
+    position: fixed;
+    width: 48px;
+    height: 48px;
+    right: 24px;
+    bottom: 24px;
+    background: #fff;
+    box-shadow: 0 1px 2px 0 #00000030;
+    cursor: pointer;
+    border-radius: 50%;
+    transition: all 0.3s;
+}
+
+.g-btn-like-container:hover {
+  box-shadow: 0 2px 4px 0 #00000050;
+}
+
+.g-btn-like {
+  position: absolute;
+  background-image: url('../images/like.png');
+  background-repeat: no-repeat;
+  /*background-size: 2900%;*/
+  height: 100px;
+  width: 100px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -47.5%);
+  overflow: hidden;
+}
+
+.is-liked {
+  background-position: -2800px 0;
+}
+
+.like-active {
+  animation-timing-function: steps(28);
+  animation-name: heart-burst;
+  animation-duration: 0.8s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+
+
+@keyframes heart-burst {
+  0% {
+    background-position: left;
+  }
+  100% {
+    background-position: right;
+  }
+}
