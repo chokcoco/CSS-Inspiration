@@ -39,18 +39,15 @@ window.$docsify = {
         }, true);
       });
 
-      hook.beforeEach(function (html) {
-        //console.log('beforeEach');
-      });
-
       hook.doneEach(function () {
         const label = vm.route.path.split("/").pop();
+
+        gitalkRender(vm, label);
 
         if (!label || label === 'init') {
           return;
         }
 
-        gitalkRender(vm, label);
         insertPvAndLike(label);
         insertLikeDOM(label);
         addPv(label);
