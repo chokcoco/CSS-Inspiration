@@ -9,11 +9,12 @@ body {
 }
 
 .markdown-section {
-    margin-top: 0;
-    margin-left: 50px;
-    margin-right: 70px;
-    padding: 30px 15px 40px;
-    position: relative;
+  max-width: 100%;
+  margin-top: 0;
+  margin-left: 50px;
+  margin-right: 70px;
+  padding: 30px 15px 40px;
+  position: relative;
 }
 
 .vuep {
@@ -79,10 +80,9 @@ h2 a:hover {
     color: #42b983;
 }
 
-#gitalk-container {
+.gitalk-container.gitalk-container {
     width: unset !important;
-    padding-right: 30px;
-    padding-left: 15px;
+    padding: 0 100px 0 80px;
 }
 
 .github-fork {
@@ -227,7 +227,7 @@ body.close .sidebar-toggle:hover .sidebar-toggle-button {
     margin-right: 0;
     padding: 5px 12px 40px;
   }
-  .gitalk-container {
+  .gitalk-container.gitalk-container {
     padding: 0 12px;
   }
 }
