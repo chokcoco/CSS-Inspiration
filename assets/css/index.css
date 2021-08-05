@@ -194,7 +194,7 @@ h2 a:hover {
   opacity: 1;
   transform: translate(0, 0) rotate(0);
 }
-.sidebar-toggle {
+body.sticky .sidebar-toggle {
   width: 50px;
 }
 body.close .sidebar-toggle-button span:nth-child(1) {
