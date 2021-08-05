@@ -234,7 +234,7 @@ body.close .sidebar-toggle:hover .sidebar-toggle-button {
 }
 
 /* - Loading - */
-#app {
+div#app {
   position: fixed;
   top: 50%;
   left: 50%;
@@ -247,7 +247,7 @@ body.close .sidebar-toggle:hover .sidebar-toggle-button {
 	overflow: hidden;
 	animation: change 3s infinite linear;
 }
-#app::before {
+div#app::before {
   content: '';
   position: absolute;
   z-index: -2;
@@ -263,7 +263,7 @@ body.close .sidebar-toggle:hover .sidebar-toggle-button {
   animation: rotate 4s linear infinite, change 4s linear infinite;
 }
 	
-#app::after {
+div#app::after {
   content: '';
   position: absolute;
   z-index: -1;
