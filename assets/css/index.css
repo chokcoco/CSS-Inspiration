@@ -202,5 +202,33 @@ h2 a:hover {
     transform: translate(-50%, 50%);
     z-index: -1;
     cursor: pointer;
+    transition: .5s all;
+  }
+
+  .sidebar-toggle-button span {
+    transition: .5s all;
+    opacity: 1;
+    transform: translate(0, 0) rotate(0);
+  }
+  body.close .sidebar-toggle {
+    width: 50px;
+  }
+  body.close .sidebar-toggle-button span:nth-child(1) {
+    transform: translate(0px, 9px) rotate(45deg);
+    background-color: #fff;
+  }
+  body.close .sidebar-toggle-button span:nth-child(3) {
+    transform: translate(0px, -3px) rotate(-45deg);
+    background-color: #fff;
+  }
+  body.close .sidebar-toggle-button span:nth-child(2) {
+    background-color: #fff;
+    opacity: 0;
+  }
+  body.close .sidebar-toggle::before {
+    background: #42b983;
+  }
+  body.close .sidebar-toggle:hover .sidebar-toggle-button {
+    opacity: .8;
   }
 }
