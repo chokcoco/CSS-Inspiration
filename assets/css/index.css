@@ -12,7 +12,6 @@ body {
     margin-top: 0;
     margin-left: 50px;
     margin-right: 70px;
-    max-width: 1430px;
     padding: 30px 15px 40px;
     position: relative;
 }
@@ -82,7 +81,6 @@ h2 a:hover {
 
 #gitalk-container {
     width: unset !important;
-    max-width: 1430px;
     padding-right: 30px;
     padding-left: 15px;
 }
@@ -174,6 +172,49 @@ h2 a:hover {
   }
 }
 
+.sidebar-toggle::before {
+  content: "";
+  position: fixed;
+  background: #fff;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  box-shadow: 0 0 4px 1px #ddd;
+  bottom: 0;
+  left: 0;
+  transform: translate(-50%, 50%);
+  z-index: -1;
+  cursor: pointer;
+  transition: .5s all;
+}
+
+.sidebar-toggle-button span {
+  transition: .5s all;
+  opacity: 1;
+  transform: translate(0, 0) rotate(0);
+}
+.sidebar-toggle {
+  width: 50px;
+}
+body.close .sidebar-toggle-button span:nth-child(1) {
+  transform: translate(0px, 9px) rotate(45deg);
+  background-color: #fff;
+}
+body.close .sidebar-toggle-button span:nth-child(3) {
+  transform: translate(0px, -3px) rotate(-45deg);
+  background-color: #fff;
+}
+body.close .sidebar-toggle-button span:nth-child(2) {
+  background-color: #fff;
+  opacity: 0;
+}
+body.close .sidebar-toggle::before {
+  background: #42b983;
+}
+body.close .sidebar-toggle:hover .sidebar-toggle-button {
+  opacity: .8;
+}
+
 @media screen and (max-width: 768px) {
   .sidebar {
     left: -360px;
@@ -188,47 +229,5 @@ h2 a:hover {
   }
   .gitalk-container {
     padding: 0 12px;
-  }
-  .sidebar-toggle::before {
-    content: "";
-    position: fixed;
-    background: #fff;
-    border-radius: 50%;
-    width: 100px;
-    height: 100px;
-    box-shadow: 0 0 4px 1px #ddd;
-    bottom: 0;
-    left: 0;
-    transform: translate(-50%, 50%);
-    z-index: -1;
-    cursor: pointer;
-    transition: .5s all;
-  }
-
-  .sidebar-toggle-button span {
-    transition: .5s all;
-    opacity: 1;
-    transform: translate(0, 0) rotate(0);
-  }
-  body.close .sidebar-toggle {
-    width: 50px;
-  }
-  body.close .sidebar-toggle-button span:nth-child(1) {
-    transform: translate(0px, 9px) rotate(45deg);
-    background-color: #fff;
-  }
-  body.close .sidebar-toggle-button span:nth-child(3) {
-    transform: translate(0px, -3px) rotate(-45deg);
-    background-color: #fff;
-  }
-  body.close .sidebar-toggle-button span:nth-child(2) {
-    background-color: #fff;
-    opacity: 0;
-  }
-  body.close .sidebar-toggle::before {
-    background: #42b983;
-  }
-  body.close .sidebar-toggle:hover .sidebar-toggle-button {
-    opacity: .8;
   }
 }
