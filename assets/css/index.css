@@ -173,3 +173,34 @@ h2 a:hover {
     background-position: right;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .sidebar {
+    left: -360px;
+  }
+  body.close .sidebar {
+    transform: translateX(360px);
+  }
+  .markdown-section {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 5px 12px 40px;
+  }
+  .gitalk-container {
+    padding: 0 12px;
+  }
+  .sidebar-toggle::before {
+    content: "";
+    position: fixed;
+    background: #fff;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 0 4px 1px #ddd;
+    bottom: 0;
+    left: 0;
+    transform: translate(-50%, 50%);
+    z-index: -1;
+    cursor: pointer;
+  }
+}
