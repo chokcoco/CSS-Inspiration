@@ -26,7 +26,7 @@ window.$docsify = {
       hook.init(function() {
         window.addEventListener('click', async (e) => {
           const target = e.target;
-          const label = vm.route.path.split("/").pop();
+          const label = vm.route.path.split("/").pop().split('.')[0];
 
           if (target.className.indexOf('g-btn-like') === -1 || target.className.indexOf('is-liked') !== -1) {
             return;
@@ -40,7 +40,7 @@ window.$docsify = {
       });
 
       hook.doneEach(function () {
-        const label = vm.route.path.split("/").pop();
+        const label = vm.route.path.split("/").pop().split('.')[0];
 
         gitalkRender(vm, label);
 
