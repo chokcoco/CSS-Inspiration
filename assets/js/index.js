@@ -115,7 +115,7 @@ function insertPvDOM(pv, likes, ct) {
 
   divEle = domObj.create("div");
   divEle.className = "g-pv-container";
-  divEle.innerHTML = `<span class="g-time">创建于 ${format(ct)}</span><span class="g-pv">阅读 ${pv}</span><span class="g-likes">喜爱 ${likes}</span>`;
+  divEle.innerHTML = `<span class="g-time">创建于 ${format(ct)}</span><span class="g-pv">阅读 ${pv} 次</span><span class="g-likes">${likes} 人表示喜欢</span>`;
 
   domObj.appendTo(document.querySelector('#main h2'), divEle);
 }
