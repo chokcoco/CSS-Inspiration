@@ -9,139 +9,153 @@
 HTML：
 
 ```HTML
-<ul class="container">
-    <li>
-        <img src="https://jestjs.io/img/favicon/favicon.ico" alt="">
-        <span>The Jest Object</span>
-        <div class="close">﹢</div>
-        <div class="line"></div>
-    </li>
-    <li class="">
-        <img src="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" alt="">
-        <span>ChromeTab分栏实现</span>
-        <div class="close">﹢</div>
-        <div class="line"></div>
-    </li>
-    <li class="active">
-        <img src="https://github.com/fluidicon.png" alt="">
-        <span>chokcoco（Coco）</span>
-        <div class="close">﹢</div>
-        <div class="line"></div>
-    </li>
-</ul>
+<div class="g-container">
+    <div class="g-number">98.7%</div>
+    <div class="g-contrast">
+        <div class="g-circle"></div>
+        <ul class="g-bubbles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+</div>
 ```
 
 SCSS：
 ```scss
-.container {
-    background: #ddd;
-    height: 40px;
-    margin: 20px auto;
-    padding: 8px 8px 0;
-    box-sizing: border-box;
+html,
+body {
+    width: 100%;
+    height: 100%;
     display: flex;
-    justify-content: flex-start;
+    background: #000;
     overflow: hidden;
+}
+.g-number {
+    position: absolute;
+    width: 300px;
+    top: 27%;
+    text-align: center;
+    font-size: 32px;
+    z-index: 10;
+    color: #fff;
+}
+
+.g-container {
+    position: relative;
+    width: 300px;
+    height: 400px;
+    margin: auto;
+}
+
+.g-contrast {
+    filter: contrast(10) hue-rotate(0);
+    width: 300px;
+    height: 400px;
+    background-color: #000;
+    overflow: hidden;
+    animation: hueRotate 10s infinite linear;
+}
+
+.g-circle {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    box-sizing: border-box;
+    filter: blur(8px);
+    
+    &::after {
+        content: "";
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%) rotate(0);
+        width: 200px;
+        height: 200px;
+        background-color: #00ff6f;
+        border-radius: 42% 38% 62% 49% / 45%;
+        animation: rotate 10s infinite linear;
+    }
+    
+    &::before {
+        content: "";
+        position: absolute;
+        width: 176px;
+        height: 176px;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 50%;
+        background-color: #000;
+        z-index: 10;
+    }
+}
+
+.g-bubbles {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 100px;
+    height: 40px;
+    transform: translate(-50%, 0);
+    border-radius: 100px 100px 0 0;
+    background-color: #00ff6f;
+    filter: blur(5px);
 }
 
 li {
-    position: relative;
-    font-size: 12px;
-    border-radius: 10px 10px 0 0;
-    flex-basis: 240px;
-    display: flex;
-    align-items: center;
-    z-index: 1;
-    cursor: default;
-    transition: .3s all;
-    
-    img {
-        width: 16px;
-        height: 16px;
-        margin-left: 10px;
-        margin-right: 10px; 
-    }
-    
-    .line {
-        display: none;
-        left: -1px;
-        top: 6px;
-        position: absolute;
-        width: 1px; 
-        height: 20px;
-        background: #909090;
-    }
-    
-    .close {
-        right: 8px;
-        top: 8px;
-        position: absolute;
-        font-size: 18px;
-        transform: rotate(45deg);
-        border-radius: 50%;
-        cursor: pointer;
-        font-weight: bold;
-        
-        &:hover {
-            background: #d0d0d0;
-        }
-    }
-}
-
-li.active {
-    background: #fff;
-    z-index: 2;
-    
-    &::before,
-    &::after {
-        border-top: 5px solid #fff;
-    }
-}
-
-li::before,
-li::after {
     position: absolute;
-    content: "";
-    width: 10px;
-    height: 10px;
     border-radius: 50%;
-    border: 5px solid transparent;
-    transition: .3s all;
-    //border-top: 5px solid #fff;
+    background: #00ff6f;
 }
 
-li::before {
-    bottom: -5px;
-    left: -15px;
-    transform: rotate(135deg)
-}
-
-li::after {
-    bottom: -5px;
-    right: -15px;
-    transform: rotate(205deg)
-}
-
-li + li:not(.active) .line {
-    display: block
-}
-
-li:hover:not(.active) {
-    background: #ededed;
-    
-    .line {
-        display: none!important;
-    }
-    
-    &::before,
-    &::after {
-       border-top: 5px solid #ededed; 
+@for $i from 0 through 15 { 
+    li:nth-child(#{$i}) {
+        $width: 15 + random(15) + px;
+        left: 15 + random(70) + px;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: $width;
+        height: $width;
+        animation: moveToTop #{random(6) + 3}s ease-in-out -#{random(5000)/1000}s infinite;
     }
 }
 
-li:hover + li {
-    .line {
-        display: none!important;
+@keyframes rotate {
+    50% {
+        border-radius: 45% / 42% 38% 58% 49%;
+    }
+    100% {
+        transform: translate(-50%, -50%) rotate(720deg);
+    }
+}
+
+@keyframes moveToTop {
+    90% {
+        opacity: 1;
+    }
+    100% {
+        opacity: .1;
+        transform: translate(-50%, -180px);
+    }
+}
+
+@keyframes hueRotate {
+    100% {
+        filter: contrast(15) hue-rotate(360deg);
     }
 }
 ```
