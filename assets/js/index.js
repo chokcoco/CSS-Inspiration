@@ -6,6 +6,7 @@ const gitalkConfig = {
   admin: ['chokcoco'],
   distractionFreeMode: false,
   language: "zh-CN",
+  proxy: 'https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token'
 }
 
 window.$docsify = {
