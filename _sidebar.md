@@ -7,6 +7,7 @@
 
 + [实现水平垂直居中最便捷的方法](./layout/best-way-to-center-element.md) 
 + [双飞翼布局](./layout/double-wing-layout.md) 
++ [grid 布局配合 clip-path 实现 GTA5 封面](./layout/grid-clip-path-gta5-poster.md) 
 + [flex 实现圣杯布局](./layout/holy-grail-layout-flex.md) 
 + [圣杯布局](./layout/holy-grail-layout.md) 
 + [CSS实现瀑布流布局（column-count）](./layout/masonry-layout-colum.md) 
@@ -29,6 +30,7 @@
 + [立体投影](./shadow/projection-solid-shadow.md) 
 + [线性渐变配合阴影实现条纹立体阴影条纹字](./shadow/projection-word-solid-shadow-ii.md) 
 + [立体文字阴影](./shadow/projection-word-solid-shadow.md) 
++ [浮雕风格按钮](./shadow/relief-style-btn.md) 
 + [box-shadow实现背景动画 2](./shadow/shadow-ani-ii.md) 
 + [box-shadow实现背景动画 ](./shadow/shadow-ani.md) 
 + [单标签实现抖音LOGO](./shadow/single-div-douyin-logo.md) 
@@ -81,6 +83,7 @@
 
 ## 背景/渐变(linear-gradient/radial-gradient/conic-gradient) 
 
++ [利用渐变及 CSS Property 实现 TV 噪音动画](./background/background-css-property-tv-noise.md) 
 + [使用 background-attachment 实现毛玻璃效果](./background/bg-attachment-frosted-glass.md) 
 + [使用 background-attachment 实现滚动阴影](./background/bg-attachment-scroll-shadow.md) 
 + [background-clip 实现流光文字效果](./background/bg-clip-text-shine.md) 
@@ -106,6 +109,7 @@
 + [渐变实现波浪边框](./background/bg-wave-border.md) 
 + [渐变实现波浪下划线](./background/bg-wave-underline.md) 
 + [渐变实现波浪效果/波浪进度框](./background/bg-wave.md) 
++ [多重径向渐变实现美妙的艺术背景](./background/repeating-radial-background-artistic-bg.md) 
 
 ## 混合模式（mix-blend-mode/background-blend-mode) 
 
@@ -127,6 +131,7 @@
 + [3D 无限延伸视角动画](./3d/3d-infinite-maze.md) 
 + [3D 线条动画](./3d/3d-line.md) 
 + [3D 迷宫线条特效](./3d/3d-maze.md) 
++ [3D 绳动画](./3d/3d-rope-swing.md) 
 + [3D 螺旋数字动画](./3d/3d-spiral-number.md) 
 + [借助 translate3d\perspective 实现 3D 视差效果](./3d/parallax-3d-1.md) 
 + [借助 translate3d\perspective 实现 3D 视差效果2](./3d/parallax-3d-2.md) 
@@ -136,6 +141,7 @@
 
 + [借助transition-delay实现按钮border动画效果](./animation/animation-button-border.md) 
 + [CSS实现曲线运动](./animation/animation-curve.md) 
++ [利用动画延迟实现波浪动画](./animation/animation-delay-wavy.md) 
 + [scale 配合 transfrom-origin 精准控制动画方向](./animation/animation-direction.md) 
 + [CSS 巧妙控制动画行进](./animation/animation-play-state.md) 
 + [正负旋转相消动画](./animation/animation-rotate.md) 
@@ -156,6 +162,8 @@
 
 + [retina屏下的1px线的实现](./others/1px-line.md) 
 + [fieldset 与 legend 实现边框嵌套文字](./others/border-inset-text.md) 
++ [利用 resize 实现图片切换预览功能](./others/css-resize-switch-picture.md) 
++ [暗黑字符雨动画](./others/digital-char-rain-animation.md) 
 + [chrome Tab 分栏实现](./others/others-chrome-tab.md) 
 + [等角螺线](./others/others-equiangular-spiral.md) 
 + [华为充电动画](./others/others-huawei-charging.md) 
@@ -187,5 +195,7 @@
 + [支付宝AR扫福动画](./svg/alipay-ar-scan.md) 
 + [SVG绘制弧形文字](./svg/svg-arc-word.md) 
 + [SVG 按钮 hover 线条动画](./svg/svg-btn-hover.md) 
++ [SVG feTurbulence 滤镜实现故障按钮点击效果](./svg/svg-feturbulence-btn-glitch.md) 
++ [SVG feTurbulence 滤镜实现云彩效果 ](./svg/svg-feturbulence-clouds.md) 
 + [SVG 文字 hover 线条动画 2](./svg/svg-line-text-2.md) 
 + [SVG 文字 hover 线条动画](./svg/svg-line-text.md) 

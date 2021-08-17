@@ -10,6 +10,7 @@
 
 + [实现水平垂直居中最便捷的方法](https://csscoco.com/inspiration/#/./layout/best-way-to-center-element.md) 
 + [双飞翼布局](https://csscoco.com/inspiration/#/./layout/double-wing-layout.md) 
++ [grid 布局配合 clip-path 实现 GTA5 封面](https://csscoco.com/inspiration/#/./layout/grid-clip-path-gta5-poster.md) 
 + [flex 实现圣杯布局](https://csscoco.com/inspiration/#/./layout/holy-grail-layout-flex.md) 
 + [圣杯布局](https://csscoco.com/inspiration/#/./layout/holy-grail-layout.md) 
 + [CSS实现瀑布流布局（column-count）](https://csscoco.com/inspiration/#/./layout/masonry-layout-colum.md) 
@@ -32,6 +33,7 @@
 + [立体投影](https://csscoco.com/inspiration/#/./shadow/projection-solid-shadow.md) 
 + [线性渐变配合阴影实现条纹立体阴影条纹字](https://csscoco.com/inspiration/#/./shadow/projection-word-solid-shadow-ii.md) 
 + [立体文字阴影](https://csscoco.com/inspiration/#/./shadow/projection-word-solid-shadow.md) 
++ [浮雕风格按钮](https://csscoco.com/inspiration/#/./shadow/relief-style-btn.md) 
 + [box-shadow实现背景动画 2](https://csscoco.com/inspiration/#/./shadow/shadow-ani-ii.md) 
 + [box-shadow实现背景动画 ](https://csscoco.com/inspiration/#/./shadow/shadow-ani.md) 
 + [单标签实现抖音LOGO](https://csscoco.com/inspiration/#/./shadow/single-div-douyin-logo.md) 
@@ -84,6 +86,7 @@
 
 ## 背景/渐变(linear-gradient/radial-gradient/conic-gradient) 
 
++ [利用渐变及 CSS Property 实现 TV 噪音动画](https://csscoco.com/inspiration/#/./background/background-css-property-tv-noise.md) 
 + [使用 background-attachment 实现毛玻璃效果](https://csscoco.com/inspiration/#/./background/bg-attachment-frosted-glass.md) 
 + [使用 background-attachment 实现滚动阴影](https://csscoco.com/inspiration/#/./background/bg-attachment-scroll-shadow.md) 
 + [background-clip 实现流光文字效果](https://csscoco.com/inspiration/#/./background/bg-clip-text-shine.md) 
@@ -109,6 +112,7 @@
 + [渐变实现波浪边框](https://csscoco.com/inspiration/#/./background/bg-wave-border.md) 
 + [渐变实现波浪下划线](https://csscoco.com/inspiration/#/./background/bg-wave-underline.md) 
 + [渐变实现波浪效果/波浪进度框](https://csscoco.com/inspiration/#/./background/bg-wave.md) 
++ [多重径向渐变实现美妙的艺术背景](https://csscoco.com/inspiration/#/./background/repeating-radial-background-artistic-bg.md) 
 
 ## 混合模式（mix-blend-mode/background-blend-mode) 
 
@@ -130,6 +134,7 @@
 + [3D 无限延伸视角动画](https://csscoco.com/inspiration/#/./3d/3d-infinite-maze.md) 
 + [3D 线条动画](https://csscoco.com/inspiration/#/./3d/3d-line.md) 
 + [3D 迷宫线条特效](https://csscoco.com/inspiration/#/./3d/3d-maze.md) 
++ [3D 绳动画](https://csscoco.com/inspiration/#/./3d/3d-rope-swing.md) 
 + [3D 螺旋数字动画](https://csscoco.com/inspiration/#/./3d/3d-spiral-number.md) 
 + [借助 translate3d\perspective 实现 3D 视差效果](https://csscoco.com/inspiration/#/./3d/parallax-3d-1.md) 
 + [借助 translate3d\perspective 实现 3D 视差效果2](https://csscoco.com/inspiration/#/./3d/parallax-3d-2.md) 
@@ -139,6 +144,7 @@
 
 + [借助transition-delay实现按钮border动画效果](https://csscoco.com/inspiration/#/./animation/animation-button-border.md) 
 + [CSS实现曲线运动](https://csscoco.com/inspiration/#/./animation/animation-curve.md) 
++ [利用动画延迟实现波浪动画](https://csscoco.com/inspiration/#/./animation/animation-delay-wavy.md) 
 + [scale 配合 transfrom-origin 精准控制动画方向](https://csscoco.com/inspiration/#/./animation/animation-direction.md) 
 + [CSS 巧妙控制动画行进](https://csscoco.com/inspiration/#/./animation/animation-play-state.md) 
 + [正负旋转相消动画](https://csscoco.com/inspiration/#/./animation/animation-rotate.md) 
@@ -159,6 +165,8 @@
 
 + [retina屏下的1px线的实现](https://csscoco.com/inspiration/#/./others/1px-line.md) 
 + [fieldset 与 legend 实现边框嵌套文字](https://csscoco.com/inspiration/#/./others/border-inset-text.md) 
++ [利用 resize 实现图片切换预览功能](https://csscoco.com/inspiration/#/./others/css-resize-switch-picture.md) 
++ [暗黑字符雨动画](https://csscoco.com/inspiration/#/./others/digital-char-rain-animation.md) 
 + [chrome Tab 分栏实现](https://csscoco.com/inspiration/#/./others/others-chrome-tab.md) 
 + [等角螺线](https://csscoco.com/inspiration/#/./others/others-equiangular-spiral.md) 
 + [华为充电动画](https://csscoco.com/inspiration/#/./others/others-huawei-charging.md) 
@@ -190,5 +198,7 @@
 + [支付宝AR扫福动画](https://csscoco.com/inspiration/#/./svg/alipay-ar-scan.md) 
 + [SVG绘制弧形文字](https://csscoco.com/inspiration/#/./svg/svg-arc-word.md) 
 + [SVG 按钮 hover 线条动画](https://csscoco.com/inspiration/#/./svg/svg-btn-hover.md) 
++ [SVG feTurbulence 滤镜实现故障按钮点击效果](https://csscoco.com/inspiration/#/./svg/svg-feturbulence-btn-glitch.md) 
++ [SVG feTurbulence 滤镜实现云彩效果 ](https://csscoco.com/inspiration/#/./svg/svg-feturbulence-clouds.md) 
 + [SVG 文字 hover 线条动画 2](https://csscoco.com/inspiration/#/./svg/svg-line-text-2.md) 
 + [SVG 文字 hover 线条动画](https://csscoco.com/inspiration/#/./svg/svg-line-text.md) 
