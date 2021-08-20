@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-[Online Pages](https://csscoco.com/CSS-Inspiration/#/)
+[Online Pages](https://csscoco.com/inspiration/#/)
 
 ## 布局（Layout） 
 
