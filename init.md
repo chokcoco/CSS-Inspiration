@@ -12,13 +12,13 @@
 
 + QQ 群：418766876 联系我，[一键加群讨论](//shang.qq.com/wpa/qunwpa?idkey=318940c0ae56f4556447291fb2fc6147a7b1760487c49c1e3410c377d946fc5a) 
 
-![qun](https://github.com/chokcoco/iCSS/raw/master/qqqun.png)
+![qun](./assets/images/qqqun.png)
 
 + 微信群：问下群已经满 200，无法扫码加入，需要手动拉人加入，可以加我微信 `coco1s`，备注 css，我拉你进群
 
 + 作者的微信公众号，Get 到最有意思的 CSS 资讯，千万不要错过 😄
 
-<img width=200 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png">
+![gzh](./assets/images/gzh_sssmall.png)
 
 ## License
 
