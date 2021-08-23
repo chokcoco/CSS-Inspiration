@@ -10,15 +10,15 @@
 
 欢迎想讨论各种天马行空的 CSS 相关问题的小伙伴们加入 CSS 灵感的各种群聊：
 
++ 作者的微信公众号 - `iCSS前端趣闻`，想 Get 到最有意思的 CSS 资讯，千万不要错过 😄
+
+![gzh](./assets/images/gzh_sssmall.png)
+
 + QQ 群：418766876 联系我，[一键加群讨论](//shang.qq.com/wpa/qunwpa?idkey=318940c0ae56f4556447291fb2fc6147a7b1760487c49c1e3410c377d946fc5a) 
 
 ![qun](./assets/images/qqqun.png)
 
 + 微信群：微信群已经满 200，无法扫码加入，需要手动拉人加入，可以加我微信 `coco1s`，备注 css，我拉你进群
-
-+ 作者的微信公众号 - `iCSS前端趣闻`，想 Get 到最有意思的 CSS 资讯，千万不要错过 😄
-
-![gzh](./assets/images/gzh_sssmall.png)
 
 ## License
 
