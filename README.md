@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-[Online Pages](https://chokcoco.github.io/CSS-Inspiration/#/)
+[Online Pages](https://csscoco.com/inspiration/#/)
 
 ## 布局（Layout） 
 
@@ -26,6 +26,7 @@
 
 + [Box-shadow实现圆环进度条动画](https://csscoco.com/inspiration/#/./shadow/circle-loading.md) 
 + [使用box-shadow/渐变实现内切角](https://csscoco.com/inspiration/#/./shadow/inscribed-angle.md) 
++ [Neon Effect 3D TEXT](https://csscoco.com/inspiration/#/./shadow/neon-effect-3d-text.md) 
 + [box-shadow实现霓虹氖灯文字效果](https://csscoco.com/inspiration/#/./shadow/neon-shadow-light.md) 
 + [使用 box-shadow 实现半透明遮罩](https://csscoco.com/inspiration/#/./shadow/opacity-wrap.md) 
 + [线性渐变模拟长阴影](https://csscoco.com/inspiration/#/./shadow/projection-long-shadow.md) 
@@ -131,11 +132,16 @@
 
 + [3D 球动画](https://csscoco.com/inspiration/#/./3d/3d-ball.md) 
 + [3D 数字计数动画](https://csscoco.com/inspiration/#/./3d/3d-count-number.md) 
++ [3D 宇宙时空穿梭效果](https://csscoco.com/inspiration/#/./3d/3d-css-galaxy-shuttle.md) 
++ [3D 立方体滚动 404 效果](https://csscoco.com/inspiration/#/./3d/3d-cuber-roll-404.md) 
++ [3D 立方体进度条](https://csscoco.com/inspiration/#/./3d/3d-cuber-progress-bar.md) 
++ [3D 光影变换文字效果](https://csscoco.com/inspiration/#/./3d/3d-glowing-rotate-text.md) 
 + [3D 无限延伸视角动画](https://csscoco.com/inspiration/#/./3d/3d-infinite-maze.md) 
 + [3D 线条动画](https://csscoco.com/inspiration/#/./3d/3d-line.md) 
 + [3D 迷宫线条特效](https://csscoco.com/inspiration/#/./3d/3d-maze.md) 
 + [3D 绳动画](https://csscoco.com/inspiration/#/./3d/3d-rope-swing.md) 
 + [3D 螺旋数字动画](https://csscoco.com/inspiration/#/./3d/3d-spiral-number.md) 
++ [3D 文字出场动画](https://csscoco.com/inspiration/#/./3d/3d-text-debut.md) 
 + [借助 translate3d\perspective 实现 3D 视差效果](https://csscoco.com/inspiration/#/./3d/parallax-3d-1.md) 
 + [借助 translate3d\perspective 实现 3D 视差效果2](https://csscoco.com/inspiration/#/./3d/parallax-3d-2.md) 
 + [使用 translateZ 实现滚动视差](https://csscoco.com/inspiration/#/./3d/parallax-3d-translate.md) 
