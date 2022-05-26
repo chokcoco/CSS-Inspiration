@@ -68,6 +68,7 @@
 + [使用 drop-shadow 配合 clip-path 生成规则阴影](./filter/filter-polygon-shadow.md) 
 + [使用 filter:blur 生成彩色阴影](./filter/filter-shadow.md) 
 + [单标签实现滴水效果](./filter/filter-single-div-water-drop.md) 
++ [利用 filter:blur 增强文字的 3D 效果](./filter/use-filter-blur-enhance-text-3d-effect.md) 
 
 ## 边框 
 
@@ -110,6 +111,7 @@
 + [渐变实现波浪边框](./background/bg-wave-border.md) 
 + [渐变实现波浪下划线](./background/bg-wave-underline.md) 
 + [渐变实现波浪效果/波浪进度框](./background/bg-wave.md) 
++ [利用 CSS @property 探寻渐变的极限效果](./background/css-property-variable-bg-change-animation.md) 
 + [多重径向渐变实现美妙的艺术背景](./background/repeating-radial-background-artistic-bg.md) 
 
 ## 混合模式（mix-blend-mode/background-blend-mode) 
@@ -124,14 +126,15 @@
 + [使用 mix-blend-mode 实现光影文字效果](./blendmode/blend-text-shine.md) 
 + [CSS WAVE MOVE(惊艳的水波效果)](./blendmode/blend-water-wave.md) 
 + [mix-blend-mode 叠加多重渐变背景](./blendmode/mix-multi-graidient-bg.md) 
++ [使用混合模式叠加实现文字波浪效果](./blendmode/mixblend-text-wave-effect.md) 
 
 ## 3D 
 
 + [3D 球动画](./3d/3d-ball.md) 
 + [3D 数字计数动画](./3d/3d-count-number.md) 
 + [3D 宇宙时空穿梭效果](./3d/3d-css-galaxy-shuttle.md) 
-+ [3D 立方体滚动 404 效果](./layout/3d-cuber-roll-404.md) 
 + [3D 立方体进度条](./3d/3d-cuber-progress-bar.md) 
++ [3D 立方体滚动 404 效果](./3d/3d-cuber-roll-404.md) 
 + [3D 光影变换文字效果](./3d/3d-glowing-rotate-text.md) 
 + [3D 无限延伸视角动画](./3d/3d-infinite-maze.md) 
 + [3D 线条动画](./3d/3d-line.md) 
@@ -147,6 +150,7 @@
 
 + [借助transition-delay实现按钮border动画效果](./animation/animation-button-border.md) 
 + [CSS实现曲线运动](./animation/animation-curve.md) 
++ [利用 animation-delay 实现文字渐现效果](./animation/animation-delay-control-text-effect.md) 
 + [利用动画延迟实现波浪动画](./animation/animation-delay-wavy.md) 
 + [scale 配合 transfrom-origin 精准控制动画方向](./animation/animation-direction.md) 
 + [CSS 巧妙控制动画行进](./animation/animation-play-state.md) 
@@ -201,6 +205,8 @@
 + [支付宝AR扫福动画](./svg/alipay-ar-scan.md) 
 + [SVG绘制弧形文字](./svg/svg-arc-word.md) 
 + [SVG 按钮 hover 线条动画](./svg/svg-btn-hover.md) 
++ [SVG 配合 drop-shadow 实现线条光影效果](./svg/svg-dropshadow-line-neon-effect.md) 
++ [利用 SVG feTurbulence 滤镜及 filter: blur 实现鸿蒙 LOGO](./svg/svg-feTurbulence-harmony-logo.md) 
 + [SVG feTurbulence 滤镜实现故障按钮点击效果](./svg/svg-feturbulence-btn-glitch.md) 
 + [SVG feTurbulence 滤镜实现云彩效果 ](./svg/svg-feturbulence-clouds.md) 
 + [SVG 文字 hover 线条动画 2](./svg/svg-line-text-2.md) 
