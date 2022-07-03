@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-[Online Pages](https://csscoco.com/inspiration/#/./init/)
+[Online Pages](https://csscoco.com/inspiration/#/./init)
 
 ## 布局（Layout） 
 
