@@ -17,7 +17,7 @@ HTML：
     @size: calc(100% - @calc(@index() - 1) * 1%);
     transform: rotate(calc(@index() * 60deg));
 
-    background: rgba(0, 0, 0, calc((@index * 0.01)));
+    background: rgba(0, 0, 0, calc((@index * 1)));
     @even {
       background: rgba(255, 255, 255, calc((@index * 0.01)));
     }
